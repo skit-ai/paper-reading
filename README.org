@@ -8,4 +8,21 @@ BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
 
 * 13 May, 2019
 
-TODO
+- Ghahramani, Z., [[https://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf][Unsupervised learning]], In , Summer School on Machine Learning
+  (pp. 72–112) (2003). (cite:ghahramani2003unsupervised)
+
+- Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., Krikun,
+  M., …, [[https://arxiv.org/abs/1609.08144][Google's neural machine translation system: bridging the gap between
+  human and machine translation]], arXiv preprint arXiv:1609.08144, (), (2016).
+  (cite:wu2016google)
+
+- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D.,
+  Chaudhary, V., …, [[https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems][Hidden technical debt in machine learning systems]], In ,
+  Advances in neural information processing systems (pp. 2503–2511) (2015).
+  (cite:sculley2015hidden)
+
+- Hundman, K., Constantinou, V., Laporte, C., Colwell, I., & Soderstrom, T.,
+  [[https://arxiv.org/abs/1802.04431][Detecting spacecraft anomalies using lstms and nonparametric dynamic
+  thresholding]], In , Proceedings of the 24th ACM SIGKDD International Conference
+  on Knowledge Discovery \& Data Mining (pp. 387–395) (2018).
+  (cite:hundman2018detecting)
