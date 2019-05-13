@@ -6,7 +6,7 @@ order. For past links/notes, check out the (private) wiki.
 
 BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
 
-* 13 May, 2019
+** 13 May, 2019
 
 - Ghahramani, Z., [[https://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf][Unsupervised learning]], In , Summer School on Machine Learning
   (pp. 72–112) (2003). (cite:ghahramani2003unsupervised)
