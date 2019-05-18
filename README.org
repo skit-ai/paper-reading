@@ -12,9 +12,11 @@ BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
   Conference of the 47th Annual Meeting of the ACL and the 4th International
   Joint Conference on Natural Language Processing of the AFNLP: Volume 2-Volume
   2 (pp. 1003–1011) (2009). (cite:mintz2009distant)
+
 - Beygelzimer, A., Daum\'e, Hal, Langford, J., & Mineiro, P., [[https://arxiv.org/abs/1502.02704][Learning
   reductions that really work]], Proceedings of the IEEE, 104(1), 136–147 (2016).
   (cite:beygelzimer2016learning)
+
 - Gravano, A., Jansche, M., & Bacchiani, M., [[https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34562.pdf][Restoring punctuation and
   capitalization in transcribed speech]], In , IEEE International Conference on
   Acoustics, Speech, and Signal Processing (ICASSP) (pp. 4741–4744) (2009).
