@@ -6,6 +6,11 @@ order. For past links/notes, check out the (private) wiki.
 
 BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
 
+** 1 June, 2019
+- Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., & others, , A
+  tutorial on thompson sampling, Foundations and Trends{\textregistered} in
+  Machine Learning, 11(1), 1–96 (2018). (cite:russo2018tutorial)
+
 ** 18 May, 2019
 - Mintz, M., Bills, S., Snow, R., & Jurafsky, D., [[https://web.stanford.edu/~jurafsky/mintz.pdf][Distant supervision for
   relation extraction without labeled data]], In , Proceedings of the Joint
