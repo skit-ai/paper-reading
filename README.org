@@ -6,6 +6,12 @@ order. For past links/notes, check out the (private) wiki.
 
 BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
 
+** 8 June, 2019
+- Mendis, C., Droppo, J., Maleki, S., Musuvathi, M., Mytkowicz, T., & Zweig, G.,
+  [[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ParallelizingWFSTSpeechDecoders.ICASSP2016.pdf][Parallelizing wfst speech decoders]], In , 2016 IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP) (pp. 5325–5329) (2016).
+  (cite:mendis2016parallelizing)
+
 ** 1 June, 2019
 - Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., & others, , [[https://arxiv.org/abs/1707.02038][A
   Tutorial on Thompson Sampling]], Foundations and Trends in Machine Learning,
