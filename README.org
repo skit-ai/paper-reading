@@ -11,6 +11,12 @@ BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
   [[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ParallelizingWFSTSpeechDecoders.ICASSP2016.pdf][Parallelizing wfst speech decoders]], In , 2016 IEEE International Conference on
   Acoustics, Speech and Signal Processing (ICASSP) (pp. 5325–5329) (2016).
   (cite:mendis2016parallelizing)
+- Dehak, N., Dehak, R., Kenny, P., Brümmer, N., Ouellet, P. and Dumouchel, P.,
+  [[https://www.crim.ca/perso/patrick.kenny/IS090079.PDF][Support vector machines versus fast scoring in the low-dimensional total variability space for speaker verifications]], In , 2009 Tenth Annual conference of the international speech communication association.
+  (cite:dehak2009support)
+- Dehak, N., Kenny, P.J., Dehak, R., Dumouchel, P. and Ouellet, P.,
+  [[https://ieeexplore.ieee.org/document/5545402][Front-end factor analysis for speaker verification]], IEEE Transactions on Audio, Speech, and Language Processing, *19(4)*, 788--798, 2010.
+  (cite:dehak2010front)
 
 ** 1 June, 2019
 - Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., & others, , [[https://arxiv.org/abs/1707.02038][A
