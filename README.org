@@ -7,7 +7,7 @@ order. For past links/notes, check out the (private) wiki.
 BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
 ** 15 June, 2019
 - Iyer, A., Jonnalagedda, M., Parthasarathy, S., Radhakrishna, A., and Rajamani, S.,
-  [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf]], In, 2019 April.
+  [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][Synthesis and Machine Learning for Heterogeneous Extraction]], In, 2019 April.
 
 ** 8 June, 2019
 - Mendis, C., Droppo, J., Maleki, S., Musuvathi, M., Mytkowicz, T., & Zweig, G.,
