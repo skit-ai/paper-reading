@@ -5,9 +5,13 @@ only list the citations with pdf links, if possible, in reverse chronological
 order. For past links/notes, check out the (private) wiki.
 
 BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
+
 ** 15 June, 2019
 - Iyer, A., Jonnalagedda, M., Parthasarathy, S., Radhakrishna, A., and Rajamani, S.,
   [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][Synthesis and Machine Learning for Heterogeneous Extraction]], In, 2019 April.
+- Liu, Z., Miao, Z., Zhan, X., Wang, J., Gong, B., & Yu, S. X., [[https://arxiv.org/abs/1904.05160][Large-scale
+  long-tailed recognition in an open world]], arXiv preprint arXiv:1904.05160, (),
+  (2019).
 
 ** 8 June, 2019
 - Mendis, C., Droppo, J., Maleki, S., Musuvathi, M., Mytkowicz, T., & Zweig, G.,
