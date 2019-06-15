@@ -8,7 +8,7 @@ BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
 
 ** 15 June, 2019
 - Iyer, A., Jonnalagedda, M., Parthasarathy, S., Radhakrishna, A., and Rajamani, S.,
-  [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][Synthesis and Machine Learning for Heterogeneous Extraction]], In, 2019 April.
+  [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][Synthesis and Machine Learning for Heterogeneous Extraction]], In, Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (pp. 301--315) (2019). New York, NY, USA: ACM.
 - Liu, Z., Miao, Z., Zhan, X., Wang, J., Gong, B., & Yu, S. X., [[https://arxiv.org/abs/1904.05160][Large-scale
   long-tailed recognition in an open world]], arXiv preprint arXiv:1904.05160, (),
   (2019).
