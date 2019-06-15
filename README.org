@@ -12,12 +12,13 @@ BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
 - Liu, Z., Miao, Z., Zhan, X., Wang, J., Gong, B., & Yu, S. X., [[https://arxiv.org/abs/1904.05160][Large-scale
   long-tailed recognition in an open world]], arXiv preprint arXiv:1904.05160, (),
   (2019).
+- Ueffing, N., Bisani, M., and Vozila, P.,
+  [[https://research.nuance.com/wp-content/uploads/2014/11/AutoPunc_Interspeech2013_paper_finalsubmission.pdf][Improved Models for Automatic Punctuation Prediction for Spoken and Written Text]], In , Interspeech (pp. 3097-3101) (2013)
   [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][Synthesis and Machine Learning for Heterogeneous Extraction]], In, 2019 April.
 - Mohri, Mehryar, Fernando Pereira, and Michael Riley.,
   [[https://cs.nyu.edu/~mohri/pub/hbka.pdf][Weighted finite-state transducers in speech recognition.]]
   Computer Speech & Language 16.1 (2002).
   (cite:mohri2002weighted)
-
 
 ** 8 June, 2019
 - Mendis, C., Droppo, J., Maleki, S., Musuvathi, M., Mytkowicz, T., & Zweig, G.,
