@@ -50,7 +50,6 @@
                          (nil . "${author}, [[${url}][${title}]] (${year}). (cite:${=key=})")))
   "Format used for item in README.org")
 
-
 (defun gen-parse-keys (text)
   "Return all entry keys from the text."
   (with-temp-buffer
@@ -63,7 +62,7 @@
                entries)
       (ht-keys entries))))
 
-(defun gen-read-sections ()
+(defun gen-parse-sections ()
   "Read BibTeX keys grouped in sections"
   (let ((sections)
         (prev-section)
@@ -80,26 +79,34 @@
       (push (cons prev-section (gen-parse-keys (buffer-substring-no-properties section-start (point-max)))) sections))
     (reverse sections)))
 
-(defun gen-format-keys (keys)
+(defun gen-format-key (key)
+  "Format a key to go as a single README entry."
   (let ((org-ref-default-bibliography gen-bib-file)
         (org-ref-formatted-citation-formats gen-format)
         (org-ref-formatted-citation-backend "org"))
-    (s-join "\n\n" (mapcar (lambda (key) (format "- %s" (org-ref-format-entry key))) keys))))
+    (format "- %s" (org-ref-format-entry key))))
+
+(defun gen-format-section (section)
+  "Format a complete section. Section is a cons coming from
+gen-parse-sections function."
+  (format "** %s\n%s"
+          (car section)
+          (s-join "\n\n" (mapcar #'gen-format-key (cdr section)))))
 
 (defun gen-clear-headlines ()
+  "Clear headlines from the current org buffer."
   (goto-char (point-min))
   (when (re-search-forward "^*" nil t)
     (delete-region (line-beginning-position) (point-max))))
 
 (defun gen ()
-  (let* ((sections (gen-read-sections))
-         (section-texts (mapcar (lambda (sec) (format "** %s\n%s" (car sec) (gen-format-keys (cdr sec)))) sections))
-         (fill-column 80))
+  "Generate entries in README.org"
+  (let* ((sections (gen-parse-sections))
+         (section-texts (mapcar #'gen-format-section sections)))
     (with-current-buffer (find-file-noselect "README.org")
       (gen-clear-headlines)
       (goto-char (point-max))
       (insert (s-join "\n\n" section-texts))
-      (goto-char (point-min))
       (save-buffer))))
 
 (provide 'gen)
