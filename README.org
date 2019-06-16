@@ -1,6 +1,6 @@
 #+TITLE: paper-reading
 
-List of papers we cover during our weekly paper reading session.. For past
+List of papers we cover during our weekly paper reading session. For past
 links/notes, check out the (private) wiki.
 
 /This README is automatically generated, don't edit it by hand/. You will need
