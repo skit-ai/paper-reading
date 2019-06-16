@@ -1,2 +1,2 @@
-*.el
 /.cask
+/auto
