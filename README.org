@@ -1,94 +1,49 @@
 #+TITLE: paper-reading
 
-List of papers we cover during our weekly paper reading session. At the moment,
-only list the citations with pdf links, if possible, in reverse chronological
-order. For past links/notes, check out the (private) wiki.
+List of papers we cover during our weekly paper reading session.. For past
+links/notes, check out the (private) wiki.
 
-BibTeX entries can be found in [[file:./library.bib][library.bib]] file.
+/This README is automatically generated, don't edit it by hand/. You will need
+[[https://www.gnu.org/software/emacs/][Emacs]] and [[https://github.com/cask/cask][Cask]] to generate this. Once installed, run ~cask install~ to setup
+dependencies. To add new entries, put them in [[file:./library.bib][library.bib]] file under appropriate
+section and run ~make~.
 
 ** /future/
-- Carbonell, J. G., Learning by analogy: formulating and generalizing plans from
-  past experience, In (Eds.), Machine learning (pp. 137–161) (1983). : Springer.
-  (cite:carbonell1983learning)
+- Carbonell, J. G., [[https://link.springer.com/chapter/10.1007/978-3-662-12405-5_5][Learning by analogy: formulating and generalizing plans from past experience]], In  (Eds.), Machine learning (pp. 137–161) (1983). : Springer. (cite:carbonell1983learning)
 
 ** 15 June, 2019
-- Iyer, A., Jonnalagedda, M., Parthasarathy, S., Radhakrishna, A., and Rajamani,
-  S., [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][Synthesis and Machine Learning for Heterogeneous Extraction]], In,
-  Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design
-  and Implementation (pp. 301--315) (2019). New York, NY, USA: ACM.
-  (cite:Iyer:2019:SML:3314221.3322485)
+- Mohri, M., Pereira, F., & Riley, M., [[https://cs.nyu.edu/~mohri/postscript/csl01.pdf][Weighted finite-state transducers in speech recognition]], Computer Speech \& Language, 16(1), 69–88 (2002). (cite:mohri2002weighted)
 
-- Liu, Z., Miao, Z., Zhan, X., Wang, J., Gong, B., & Yu, S. X., [[https://arxiv.org/abs/1904.05160][Large-scale
-  long-tailed recognition in an open world]], arXiv preprint arXiv:1904.05160, (),
-  (2019). (cite:liu2019large)
+- Ueffing, N., Bisani, M., & Vozila, P., [[https://research.nuance.com/wp-content/uploads/2014/11/AutoPunc_Interspeech2013_paper_finalsubmission.pdf][Improved models for automatic punctuation prediction for spoken and written text.]], In , Interspeech (pp. 3097–3101) (2013). : . (cite:ueffing2013improved)
 
-- Ueffing, N., Bisani, M., and Vozila, P., [[https://research.nuance.com/wp-content/uploads/2014/11/AutoPunc_Interspeech2013_paper_finalsubmission.pdf][Improved Models for Automatic
-  Punctuation Prediction for Spoken and Written Text]], In , Interspeech (pp.
-  3097-3101) (2013) [[https://www.microsoft.com/en-us/research/uploads/prod/2019/04/HeterogeneousExtraction.pdf][Synthesis and Machine Learning for Heterogeneous Extraction]],
-  In, 2019 April. (cite:ueffing2013improved)
+- Liu, Z., Miao, Z., Zhan, X., Wang, J., Gong, B., & Yu, S. X., [[https://arxiv.org/abs/1904.05160][Large-scale long-tailed recognition in an open world]], arXiv preprint arXiv:1904.05160, (),  (2019). (cite:liu2019large)
 
-- Mohri, Mehryar, Fernando Pereira, and Michael Riley.,
-  [[https://cs.nyu.edu/~mohri/pub/hbka.pdf][Weighted finite-state transducers in speech recognition.]]
-  Computer Speech & Language 16.1 (2002).
-  (cite:mohri2002weighted)
+- Iyer, A., Jonnalagedda, M., Parthasarathy, S., Radhakrishna, A., & Rajamani, S. K., [[https://www.microsoft.com/en-us/research/publication/synthesis-and-machine-learning-for-heterogeneous-extraction/][Synthesis and machine learning for heterogeneous extraction]], In , Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (pp. 301–315) (2019). : . (cite:iyer2019synthesis)
 
 ** 8 June, 2019
-- Mendis, C., Droppo, J., Maleki, S., Musuvathi, M., Mytkowicz, T., & Zweig, G.,
-  [[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ParallelizingWFSTSpeechDecoders.ICASSP2016.pdf][Parallelizing wfst speech decoders]], In , 2016 IEEE International Conference on
-  Acoustics, Speech and Signal Processing (ICASSP) (pp. 5325–5329) (2016).
-  (cite:mendis2016parallelizing)
+- Dehak, N., Kenny, P. J., Dehak, R\'eda, Dumouchel, P., & Ouellet, P., [[https://ieeexplore.ieee.org/document/5545402][Front-end factor analysis for speaker verification]], IEEE Transactions on Audio, Speech, and Language Processing, 19(4), 788–798 (2010). (cite:dehak2010front)
 
-- Dehak, N., Dehak, R., Kenny, P., Brümmer, N., Ouellet, P. and Dumouchel, P.,
-  [[https://www.crim.ca/perso/patrick.kenny/IS090079.PDF][Support vector machines versus fast scoring in the low-dimensional total
-  variability space for speaker verifications]], In , 2009 Tenth Annual conference
-  of the international speech communication association. (cite:dehak2009support)
+- Dehak, N., Dehak, R., Kenny, P., Br\"ummer, Niko, Ouellet, P., & Dumouchel, P., [[https://www.crim.ca/perso/patrick.kenny/IS090079.PDF][Support vector machines versus fast scoring in the low-dimensional total variability space for speaker verification]], In , Tenth Annual conference of the international speech communication association (pp. ) (2009). : . (cite:dehak2009support)
 
-- Dehak, N., Kenny, P.J., Dehak, R., Dumouchel, P. and Ouellet, P., [[https://ieeexplore.ieee.org/document/5545402][Front-end
-  factor analysis for speaker verification]], IEEE Transactions on Audio, Speech,
-  and Language Processing, *19(4)*, 788--798, 2010. (cite:dehak2010front)
+- Sutton, C., & McCallum, A., [[https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf][An introduction to conditional random fields for relational learning]], In  (Eds.), Introduction to Statistical Relational Learning (pp. ) (2006). : . (cite:sutton06introduction)
 
-- Sutton, C., McCallum, A., [[https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf][An Introduction to Conditional Random Fields for
-  Relational Learning]], In , L. Getoor & B. Taskar (Eds.), Introduction to
-  Statistical Relational Learning (2006). MIT Press. (cite:sutton06introduction)
+- Mendis, C., Droppo, J., Maleki, S., Musuvathi, M., Mytkowicz, T., & Zweig, G., [[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ParallelizingWFSTSpeechDecoders.ICASSP2016.pdf][Parallelizing wfst speech decoders]], In , 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5325–5329) (2016). : . (cite:mendis2016parallelizing)
 
 ** 1 June, 2019
-- Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., & others, , [[https://arxiv.org/abs/1707.02038][A
-  Tutorial on Thompson Sampling]], Foundations and Trends in Machine Learning,
-  11(1), 1–96 (2018). (cite:russo2018tutorial)
+- Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., & others, , [[https://arxiv.org/abs/1707.02038][A tutorial on thompson sampling]], Foundations and Trends{\textregistered} in Machine Learning, 11(1), 1–96 (2018). (cite:russo2018tutorial)
 
 ** 18 May, 2019
-- Mintz, M., Bills, S., Snow, R., & Jurafsky, D., [[https://web.stanford.edu/~jurafsky/mintz.pdf][Distant supervision for
-  relation extraction without labeled data]], In , Proceedings of the Joint
-  Conference of the 47th Annual Meeting of the ACL and the 4th International
-  Joint Conference on Natural Language Processing of the AFNLP: Volume 2-Volume
-  2 (pp. 1003–1011) (2009). (cite:mintz2009distant)
+- Gravano, A., Jansche, M., & Bacchiani, M., [[https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34562.pdf][Restoring punctuation and capitalization in transcribed speech]], In , 2009 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 4741–4744) (2009). : . (cite:gravano2009restoring)
 
-- Beygelzimer, A., Daum\'e, Hal, Langford, J., & Mineiro, P., [[https://arxiv.org/abs/1502.02704][Learning
-  reductions that really work]], Proceedings of the IEEE, 104(1), 136–147 (2016).
-  (cite:beygelzimer2016learning)
+- Mintz, M., Bills, S., Snow, R., & Jurafsky, D., [[https://web.stanford.edu/~jurafsky/mintz.pdf][Distant supervision for relation extraction without labeled data]], In , Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL and the 4th International Joint Conference on Natural Language Processing of the AFNLP: Volume 2-Volume 2 (pp. 1003–1011) (2009). : . (cite:mintz2009distant)
 
-- Gravano, A., Jansche, M., & Bacchiani, M., [[https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34562.pdf][Restoring punctuation and
-  capitalization in transcribed speech]], In , IEEE International Conference on
-  Acoustics, Speech, and Signal Processing (ICASSP) (pp. 4741–4744) (2009).
-  (cite:gravano2009restoring)
+- Beygelzimer, A., Daum\'e, Hal, Langford, J., & Mineiro, P., [[https://arxiv.org/abs/1502.02704][Learning reductions that really work]], Proceedings of the IEEE, 104(1), 136–147 (2016). (cite:beygelzimer2016learning)
 
 ** 13 May, 2019
+- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., Chaudhary, V., …, [[https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems][Hidden technical debt in machine learning systems]], In , Advances in neural information processing systems (pp. 2503–2511) (2015). : . (cite:sculley2015hidden)
 
-- Ghahramani, Z., [[https://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf][Unsupervised learning]], In , Summer School on Machine Learning
-  (pp. 72–112) (2003). (cite:ghahramani2003unsupervised)
+- Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., Krikun, M., …, [[https://arxiv.org/abs/1609.08144][Google's neural machine translation system: bridging the gap between human and machine translation]], arXiv preprint arXiv:1609.08144, (),  (2016). (cite:wu2016google)
 
-- Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., Krikun,
-  M., …, [[https://arxiv.org/abs/1609.08144][Google's neural machine translation system: bridging the gap between
-  human and machine translation]], arXiv preprint arXiv:1609.08144, (), (2016).
-  (cite:wu2016google)
+- Ghahramani, Z., [[https://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf][Unsupervised learning]], In , Summer School on Machine Learning (pp. 72–112) (2003). : . (cite:ghahramani2003unsupervised)
 
-- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D.,
-  Chaudhary, V., …, [[https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems][Hidden technical debt in machine learning systems]], In ,
-  Advances in neural information processing systems (pp. 2503–2511) (2015).
-  (cite:sculley2015hidden)
-
-- Hundman, K., Constantinou, V., Laporte, C., Colwell, I., & Soderstrom, T.,
-  [[https://arxiv.org/abs/1802.04431][Detecting spacecraft anomalies using lstms and nonparametric dynamic
-  thresholding]], In , Proceedings of the 24th ACM SIGKDD International Conference
-  on Knowledge Discovery \& Data Mining (pp. 387–395) (2018).
-  (cite:hundman2018detecting)
+- Hundman, K., Constantinou, V., Laporte, C., Colwell, I., & Soderstrom, T., [[https://arxiv.org/abs/1802.04431][Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding]], In , Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (pp. 387–395) (2018). : . (cite:hundman2018detecting)
