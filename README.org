@@ -9,6 +9,8 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future/
+- Breck, E., Zinkevich, M., Polyzotis, N., Whang, S., & Roy, S., [[https://www.sysml.cc/doc/2019/167.pdf][Data validation for machine learning]], In , Proceedings of SysML (pp. ) (2019). : . (cite:breck2019data)
+
 - Carbonell, J. G., [[https://link.springer.com/chapter/10.1007/978-3-662-12405-5_5][Learning by analogy: formulating and generalizing plans from past experience]], In  (Eds.), Machine learning (pp. 137–161) (1983). : Springer. (cite:carbonell1983learning)
 
 ** 15 June, 2019
