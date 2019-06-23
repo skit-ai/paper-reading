@@ -8,6 +8,9 @@ links/notes, check out the (private) wiki.
 dependencies. To add new entries, put them in [[file:./library.bib][library.bib]] file under appropriate
 section and run ~make~.
 
+** /future 2x/
+- Welling, M., & Teh, Y. W., [[https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf][Bayesian learning via stochastic gradient langevin dynamics]], In , Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681–688) (2011). : . (cite:welling2011bayesian)
+
 ** /future/
 - Reynolds, D. A., Quatieri, T. F., & Dunn, R. B., [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf][Speaker verification using adapted gaussian mixture models]], Digital signal processing, 10(1-3), 19–41 (2000). (cite:reynolds2000speaker)
 
