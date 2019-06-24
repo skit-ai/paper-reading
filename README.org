@@ -9,6 +9,8 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future 2x/
+- Graf, S., Herbig, T., Buck, M., & Schmidt, G., [[https://asp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13634-015-0277-z][Features for voice activity detection: a comparative analysis]], EURASIP Journal on Advances in Signal Processing, 2015(1), 91 (2015). (cite:graf2015features)
+
 - Welling, M., & Teh, Y. W., [[https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf][Bayesian learning via stochastic gradient langevin dynamics]], In , Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681–688) (2011). : . (cite:welling2011bayesian)
 
 ** /future/
