@@ -9,6 +9,8 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future 2x/
+- Friedman, J., Hastie, T., & Tibshirani, R., [[https://web.stanford.edu/~hastie/ElemStatLearn/} # publisher # {Springer series in statistics New York][The elements of statistical learning]] (2001), : . (cite:friedman2001elements)
+
 - Graf, S., Herbig, T., Buck, M., & Schmidt, G., [[https://asp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13634-015-0277-z][Features for voice activity detection: a comparative analysis]], EURASIP Journal on Advances in Signal Processing, 2015(1), 91 (2015). (cite:graf2015features)
 
 - Welling, M., & Teh, Y. W., [[https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf][Bayesian learning via stochastic gradient langevin dynamics]], In , Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681–688) (2011). : . (cite:welling2011bayesian)
@@ -22,7 +24,7 @@ section and run ~make~.
 
 - Carbonell, J. G., [[https://link.springer.com/chapter/10.1007/978-3-662-12405-5_5][Learning by analogy: formulating and generalizing plans from past experience]], In  (Eds.), Machine learning (pp. 137–161) (1983). : Springer. (cite:carbonell1983learning)
 
-- Grandi, U., Grossi, D., & Turrini, P., [[https://doi.org/10.1613/jair.1.11446][Negotiable votes pre-vote negotiations in binary voting with non-manipulable rules]], J. Artif. Int. Res., 64(1), 895–929 (2019). (cite:Grandi:2019:NVP:3336154.3336188)
+- Liu, B., Wang, L., Liu, M., & Xu, C., [[https://arxiv.org/abs/1901.06455} # volume # {abs/1901.06455][Lifelong federated reinforcement learning: a learning architecture for navigation in cloud robotic systems]], , (),  (2019). (cite:Liu2019LifelongFR)
 
 ** 15 June, 2019
 - Mohri, M., Pereira, F., & Riley, M., [[http://www.sciencedirect.com/science/article/pii/S0885230801901846][Weighted finite-state transducers in speech recognition]], Computer Speech & Language, 16(1), 69–88 (2002). (cite:MOHRI200269)
