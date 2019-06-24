@@ -8,15 +8,24 @@ links/notes, check out the (private) wiki.
 dependencies. To add new entries, put them in [[file:./library.bib][library.bib]] file under appropriate
 section and run ~make~.
 
+** /future 2x/
+- Graf, S., Herbig, T., Buck, M., & Schmidt, G., [[https://asp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13634-015-0277-z][Features for voice activity detection: a comparative analysis]], EURASIP Journal on Advances in Signal Processing, 2015(1), 91 (2015). (cite:graf2015features)
+
+- Welling, M., & Teh, Y. W., [[https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf][Bayesian learning via stochastic gradient langevin dynamics]], In , Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681–688) (2011). : . (cite:welling2011bayesian)
+
 ** /future/
+- Reynolds, D. A., Quatieri, T. F., & Dunn, R. B., [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf][Speaker verification using adapted gaussian mixture models]], Digital signal processing, 10(1-3), 19–41 (2000). (cite:reynolds2000speaker)
+
 - Jasper Snoek, H. L., & Adams, R. P., [[https://arxiv.org/pdf/1206.2944.pdf][Practical bayesian optimization of machine learning algorithms]], arXiv preprint arXiv:1206.2944, (),  (2012). (cite:snoek2012practical)
 
 - Breck, E., Zinkevich, M., Polyzotis, N., Whang, S., & Roy, S., [[https://www.sysml.cc/doc/2019/167.pdf][Data validation for machine learning]], In , Proceedings of SysML (pp. ) (2019). : . (cite:breck2019data)
 
 - Carbonell, J. G., [[https://link.springer.com/chapter/10.1007/978-3-662-12405-5_5][Learning by analogy: formulating and generalizing plans from past experience]], In  (Eds.), Machine learning (pp. 137–161) (1983). : Springer. (cite:carbonell1983learning)
 
+- Grandi, U., Grossi, D., & Turrini, P., [[https://doi.org/10.1613/jair.1.11446][Negotiable votes pre-vote negotiations in binary voting with non-manipulable rules]], J. Artif. Int. Res., 64(1), 895–929 (2019). (cite:Grandi:2019:NVP:3336154.3336188)
+
 ** 15 June, 2019
-- Mohri, M., Pereira, F., & Riley, M., [[https://cs.nyu.edu/~mohri/postscript/csl01.pdf][Weighted finite-state transducers in speech recognition]], Computer Speech \& Language, 16(1), 69–88 (2002). (cite:mohri2002weighted)
+- Mohri, M., Pereira, F., & Riley, M., [[http://www.sciencedirect.com/science/article/pii/S0885230801901846][Weighted finite-state transducers in speech recognition]], Computer Speech & Language, 16(1), 69–88 (2002). (cite:MOHRI200269)
 
 - Ueffing, N., Bisani, M., & Vozila, P., [[https://research.nuance.com/wp-content/uploads/2014/11/AutoPunc_Interspeech2013_paper_finalsubmission.pdf][Improved models for automatic punctuation prediction for spoken and written text.]], In , Interspeech (pp. 3097–3101) (2013). : . (cite:ueffing2013improved)
 
