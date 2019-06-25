@@ -26,7 +26,7 @@ section and run ~make~.
 
 - Carbonell, J. G., [[https://link.springer.com/chapter/10.1007/978-3-662-12405-5_5][Learning by analogy: formulating and generalizing plans from past experience]], In  (Eds.), Machine learning (pp. 137–161) (1983). : Springer. (cite:carbonell1983learning)
 
-- Liu, B., Wang, L., Liu, M., & Xu, C., [[https://arxiv.org/abs/1901.06455} # volume # {abs/1901.06455][Lifelong federated reinforcement learning: a learning architecture for navigation in cloud robotic systems]], , (),  (2019). (cite:Liu2019LifelongFR)
+- Liu, B., Wang, L., Liu, M., & Xu, C., [[https://arxiv.org/abs/1901.06455][Lifelong federated reinforcement learning: a learning architecture for navigation in cloud robotic systems]], , abs/1901.06455(),  (2019). (cite:Liu2019LifelongFR)
 
 ** 15 June, 2019
 - Mohri, M., Pereira, F., & Riley, M., [[http://www.sciencedirect.com/science/article/pii/S0885230801901846][Weighted finite-state transducers in speech recognition]], Computer Speech & Language, 16(1), 69–88 (2002). (cite:MOHRI200269)
