@@ -8,6 +8,9 @@ links/notes, check out the (private) wiki.
 dependencies. To add new entries, put them in [[file:./library.bib][library.bib]] file under appropriate
 section and run ~make~.
 
+** /future 2x/
+- Locatello, F., Bauer, S., Lucic, M., Gelly, S., Scholkopf, B., & Bachem, O., [[https://arxiv.org/pdf/1811.12359.pdf][Challenging common assumptions in the unsupervised learning of disentangled representations]], arXiv preprint arXiv:1811.12359, (),  (2018). (cite:locatello2018challenging)
+
 ** /future/
 - Friedman, J., Hastie, T., & Tibshirani, R., [[https://web.stanford.edu/~hastie/ElemStatLearn/} # publisher # {Springer series in statistics New York][The elements of statistical learning]], In  (Eds.),  (pp. 43–93) (2001). : . (cite:friedman2001elements)
 
