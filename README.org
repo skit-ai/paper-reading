@@ -14,7 +14,7 @@ section and run ~make~.
 - Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J., [[http://www.stat.cmu.edu/~ryantibs/papers/lsinter.pdf][Surprises in high-dimensional ridgeless least squares interpolation]], arXiv preprint arXiv:1903.08560, (),  (2019). (cite:hastie2019surprises)
 
 ** /future/
-- Friedman, J., Hastie, T., & Tibshirani, R., [[https://web.stanford.edu/~hastie/ElemStatLearn/} # publisher # {Springer series in statistics New York][The elements of statistical learning]], In  (Eds.),  (pp. 43–93) (2001). : . (cite:friedman2001elements)
+- Friedman, J., Hastie, T., & Tibshirani, R., [[https://web.stanford.edu/~hastie/Papers/ESLII.pdf][The elements of statistical learning]], In  (Eds.),  (pp. 43–51) (2001). : Springer series in statistics New York. (cite:friedman2001elements)
 
 - Graf, S., Herbig, T., Buck, M., & Schmidt, G., [[https://asp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13634-015-0277-z][Features for voice activity detection: a comparative analysis]], EURASIP Journal on Advances in Signal Processing, 2015(1), 91 (2015). (cite:graf2015features)
 
