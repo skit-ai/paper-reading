@@ -9,7 +9,7 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future 2x/
-- Barham, P., & Isard, M., [[http://delivery.acm.org/10.1145/3330000/3321441/p177-Barham.pdf?ip=175.100.149.65&id=3321441&acc=TRUSTED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EE47D41B086F0CDA3&__acm__=1561969866_0dc39084a8a28cdf27898b77916fb9cc][Machine learning systems are stuck in a rut]], In , Proceedings of the Workshop on Hot Topics in Operating Systems (pp. 177–183) (2019). New York, NY, USA: ACM. (cite:barham2019machine)
+- Barham, P., & Isard, M., [[https://dl.acm.org/citation.cfm?id=3321441][Machine learning systems are stuck in a rut]], In , Proceedings of the Workshop on Hot Topics in Operating Systems (pp. 177–183) (2019). New York, NY, USA: ACM. (cite:barham2019machine)
 
 - Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J., [[http://www.stat.cmu.edu/~ryantibs/papers/lsinter.pdf][Surprises in high-dimensional ridgeless least squares interpolation]], arXiv preprint arXiv:1903.08560, (),  (2019). (cite:hastie2019surprises)
 
