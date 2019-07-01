@@ -8,14 +8,14 @@ links/notes, check out the (private) wiki.
 dependencies. To add new entries, put them in [[file:./library.bib][library.bib]] file under appropriate
 section and run ~make~.
 
-** /future 2x/
+** /future/
 - Friedman, J., Hastie, T., & Tibshirani, R., [[https://web.stanford.edu/~hastie/Papers/ESLII.pdf][The elements of statistical learning]], In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)
 
 - Barham, P., & Isard, M., [[https://dl.acm.org/citation.cfm?id=3321441][Machine learning systems are stuck in a rut]], In , Proceedings of the Workshop on Hot Topics in Operating Systems (pp. 177–183) (2019). New York, NY, USA: ACM. (cite:barham2019machine)
 
 - Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J., [[http://www.stat.cmu.edu/~ryantibs/papers/lsinter.pdf][Surprises in high-dimensional ridgeless least squares interpolation]], arXiv preprint arXiv:1903.08560, (),  (2019). (cite:hastie2019surprises)
 
-** /future/
+** 1 July, 2019
 - Friedman, J., Hastie, T., & Tibshirani, R., [[https://web.stanford.edu/~hastie/Papers/ESLII.pdf][The elements of statistical learning]], In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)
 
 - Graf, S., Herbig, T., Buck, M., & Schmidt, G., [[https://asp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13634-015-0277-z][Features for voice activity detection: a comparative analysis]], EURASIP Journal on Advances in Signal Processing, 2015(1), 91 (2015). (cite:graf2015features)
