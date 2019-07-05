@@ -15,6 +15,8 @@ section and run ~make~.
 
 - Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J., [[http://www.stat.cmu.edu/~ryantibs/papers/lsinter.pdf][Surprises in high-dimensional ridgeless least squares interpolation]], arXiv preprint arXiv:1903.08560, (),  (2019). (cite:hastie2019surprises)
 
+- Levitan, S. I., Mishra, T., & Bangalore, S., [[http://www.cs.columbia.edu/~sarahita/papers/speech_prosody16.pdf][Automatic identification of gender from speech]], In , Proceeding of Speech Prosody (pp. 84–88) (2016). : . (cite:levitan2016automatic)
+
 ** 1 July, 2019
 - Friedman, J., Hastie, T., & Tibshirani, R., [[https://web.stanford.edu/~hastie/Papers/ESLII.pdf][The elements of statistical learning]], In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)
 
