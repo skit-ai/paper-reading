@@ -9,6 +9,8 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future/
+- Advani, M. S., & Saxe, A. M., [[https://arxiv.org/abs/1710.03667][High-dimensional dynamics of generalization error in neural networks]], arXiv preprint arXiv:1710.03667, (),  (2017). (cite:advani2017high)
+
 - Locatello, F., Bauer, S., Lucic, M., Gelly, S., Sch\"olkopf, Bernhard, & Bachem, O., [[https://arxiv.org/pdf/1811.12359.pdf][Challenging common assumptions in the unsupervised learning of disentangled representations]], arXiv preprint arXiv:1811.12359, (),  (2018). (cite:locatello2018challenging)
 
 ** 6 July, 2019
