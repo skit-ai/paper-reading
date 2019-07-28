@@ -13,6 +13,8 @@ section and run ~make~.
 
 - Belkin, M., Hsu, D., Ma, S., & Mandal, S., [[https://arxiv.org/pdf/1812.11118.pdf][Reconciling modern machine learning and the bias-variance trade-off]], arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)
 
+- Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D., [[https://arxiv.org/pdf/1907.02893.pdf][Invariant Risk Minimization]] (2019). (cite:arjovsky2019invariant)
+
 - Christiano, P., Shlegeris, B., & Amodei, D., [[https://arxiv.org/abs/1810.08575][Supervising strong learners by amplifying weak experts]], arXiv preprint arXiv:1810.08575, (),  (2018). (cite:christiano2018supervising)
 
 ** 20 July, 2019
