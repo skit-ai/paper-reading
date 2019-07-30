@@ -11,11 +11,12 @@ section and run ~make~.
 ** /future/
 - Ghorbani, A., & Zou, J., [[http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf][Data shapley: equitable valuation of data for machine learning]], arXiv preprint arXiv:1904.02868, (),  (2019). (cite:ghorbani2019data)
 
-- Belkin, M., Hsu, D., Ma, S., & Mandal, S., [[https://arxiv.org/pdf/1812.11118.pdf][Reconciling modern machine learning and the bias-variance trade-off]], arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)
-
 - Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D., [[https://arxiv.org/pdf/1907.02893.pdf][Invariant Risk Minimization]] (2019). (cite:arjovsky2019invariant)
 
 - Christiano, P., Shlegeris, B., & Amodei, D., [[https://arxiv.org/abs/1810.08575][Supervising strong learners by amplifying weak experts]], arXiv preprint arXiv:1810.08575, (),  (2018). (cite:christiano2018supervising)
+
+** 27 July, 2019
+- Belkin, M., Hsu, D., Ma, S., & Mandal, S., [[https://arxiv.org/pdf/1812.11118.pdf][Reconciling modern machine learning and the bias-variance trade-off]], arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)
 
 ** 20 July, 2019
 - Locatello, F., Bauer, S., Lucic, M., Gelly, S., Sch\"olkopf, Bernhard, & Bachem, O., [[https://arxiv.org/pdf/1811.12359.pdf][Challenging common assumptions in the unsupervised learning of disentangled representations]], arXiv preprint arXiv:1811.12359, (),  (2018). (cite:locatello2018challenging)
