@@ -15,6 +15,8 @@ section and run ~make~.
 
 - Christiano, P., Shlegeris, B., & Amodei, D., [[https://arxiv.org/abs/1810.08575][Supervising strong learners by amplifying weak experts]], arXiv preprint arXiv:1810.08575, (),  (2018). (cite:christiano2018supervising)
 
+- Shen, G., Horikawa, T., Majima, K., & Kamitani, Y., [[https://journals.plos.org/ploscompbiol/article?rev=1&id=10.1371/journal.pcbi.1006633][Deep image reconstruction from human brain activity]], PLoS computational biology, 15(1), 1006633 (2019). (cite:shen2019deep)
+
 ** 27 July, 2019
 - Belkin, M., Hsu, D., Ma, S., & Mandal, S., [[https://arxiv.org/pdf/1812.11118.pdf][Reconciling modern machine learning and the bias-variance trade-off]], arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)
 
