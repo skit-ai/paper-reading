@@ -17,6 +17,8 @@ section and run ~make~.
 
 - Shen, G., Horikawa, T., Majima, K., & Kamitani, Y., [[https://journals.plos.org/ploscompbiol/article?rev=1&id=10.1371/journal.pcbi.1006633][Deep image reconstruction from human brain activity]], PLoS computational biology, 15(1), 1006633 (2019). (cite:shen2019deep)
 
+- Daum\'e III, Hal, [[http://legacydirs.umiacs.umd.edu/~hal/docs/daume07easyadapt.pdf][Frustratingly easy domain adaptation]], arXiv preprint arXiv:0907.1815, (),  (2009). (cite:daume2009frustratingly)
+
 ** 27 July, 2019
 - Belkin, M., Hsu, D., Ma, S., & Mandal, S., [[https://arxiv.org/pdf/1812.11118.pdf][Reconciling modern machine learning and the bias-variance trade-off]], arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)
 
