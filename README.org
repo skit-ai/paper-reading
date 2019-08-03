@@ -9,6 +9,8 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future/
+- Kim, S., Eriksson, T., Kang, H., & Hee Youn, D., [[https://www.researchgate.net/publication/4087401_A_pitch_synchronous_feature_extraction_method_for_speaker_recognition/link/00b7d5364b1a66dafc000000/download][A pitch synchronous feature extraction method for speaker recognition]], In ,  (pp. ) (2004). : . (cite:PSMFCC)
+
 - Chen, J., [[http://www.columbia.edu/~jcc2161/documents/HumanVoice.pdf][Elements of human voice]] (2016), : . (cite:HumanVoice)
 
 - Ghorbani, A., & Zou, J., [[http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf][Data shapley: equitable valuation of data for machine learning]], arXiv preprint arXiv:1904.02868, (),  (2019). (cite:ghorbani2019data)
