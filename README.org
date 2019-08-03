@@ -9,6 +9,8 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future/
+- Chen, J., [[http://www.columbia.edu/~jcc2161/documents/HumanVoice.pdf][Elements of human voice]] (2016), : . (cite:HumanVoice)
+
 - Ghorbani, A., & Zou, J., [[http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf][Data shapley: equitable valuation of data for machine learning]], arXiv preprint arXiv:1904.02868, (),  (2019). (cite:ghorbani2019data)
 
 - Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D., [[https://arxiv.org/pdf/1907.02893.pdf][Invariant Risk Minimization]] (2019). (cite:arjovsky2019invariant)
