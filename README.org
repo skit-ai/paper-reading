@@ -9,6 +9,9 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future/
+- Chen, X., Hassan, A., Hassan, H., Wang, W., & Cardie, C., [[https://arxiv.org/pdf/1810.03552.pdf][Multi-source cross-lingual model transfer: learning what to share]], In , Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 3098–3112) (2019). : . (cite:chen2019multi)
+
+** 3 August, 2019
 - Kim, S., Eriksson, T., Kang, H., & Hee Youn, D., [[https://www.researchgate.net/publication/4087401_A_pitch_synchronous_feature_extraction_method_for_speaker_recognition/link/00b7d5364b1a66dafc000000/download][A pitch synchronous feature extraction method for speaker recognition]], In ,  (pp. ) (2004). : . (cite:PSMFCC)
 
 - Chen, J., [[http://www.columbia.edu/~jcc2161/documents/HumanVoice.pdf][Elements of human voice]] (2016), : . (cite:HumanVoice)
