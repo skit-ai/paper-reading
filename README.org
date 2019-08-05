@@ -9,6 +9,10 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future/
+- Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D., [[https://arxiv.org/pdf/1907.02893.pdf][Invariant Risk Minimization]] (2019). (cite:arjovsky2019invariant)
+
+- Christiano, P., Shlegeris, B., & Amodei, D., [[https://arxiv.org/abs/1810.08575][Supervising strong learners by amplifying weak experts]], arXiv preprint arXiv:1810.08575, (),  (2018). (cite:christiano2018supervising)
+
 - Chen, X., Hassan, A., Hassan, H., Wang, W., & Cardie, C., [[https://arxiv.org/pdf/1810.03552.pdf][Multi-source cross-lingual model transfer: learning what to share]], In , Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 3098–3112) (2019). : . (cite:chen2019multi)
 
 ** 3 August, 2019
@@ -17,10 +21,6 @@ section and run ~make~.
 - Chen, J., [[http://www.columbia.edu/~jcc2161/documents/HumanVoice.pdf][Elements of human voice]] (2016), : . (cite:HumanVoice)
 
 - Ghorbani, A., & Zou, J., [[http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf][Data shapley: equitable valuation of data for machine learning]], arXiv preprint arXiv:1904.02868, (),  (2019). (cite:ghorbani2019data)
-
-- Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D., [[https://arxiv.org/pdf/1907.02893.pdf][Invariant Risk Minimization]] (2019). (cite:arjovsky2019invariant)
-
-- Christiano, P., Shlegeris, B., & Amodei, D., [[https://arxiv.org/abs/1810.08575][Supervising strong learners by amplifying weak experts]], arXiv preprint arXiv:1810.08575, (),  (2018). (cite:christiano2018supervising)
 
 - Shen, G., Horikawa, T., Majima, K., & Kamitani, Y., [[https://journals.plos.org/ploscompbiol/article?rev=1&id=10.1371/journal.pcbi.1006633][Deep image reconstruction from human brain activity]], PLoS computational biology, 15(1), 1006633 (2019). (cite:shen2019deep)
 
