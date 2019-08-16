@@ -9,6 +9,8 @@ dependencies. To add new entries, put them in [[file:./library.bib][library.bib]
 section and run ~make~.
 
 ** /future/
+- Zhang, X., Manohar, V., Povey, D., & Khudanpur, S., [[https://arxiv.org/abs/1706.03747][Acoustic data-driven lexicon learning based on a greedy pronunciation selection framework]], arXiv preprint arXiv:1706.03747, (),  (2017). (cite:zhang2017acoustic)
+
 - Arjovsky, M., Bottou, L., Gulrajani, I., & Lopez-Paz, D., [[https://arxiv.org/pdf/1907.02893.pdf][Invariant Risk Minimization]] (2019). (cite:arjovsky2019invariant)
 
 - Christiano, P., Shlegeris, B., & Amodei, D., [[https://arxiv.org/abs/1810.08575][Supervising strong learners by amplifying weak experts]], arXiv preprint arXiv:1810.08575, (),  (2018). (cite:christiano2018supervising)
