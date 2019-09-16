@@ -19,6 +19,8 @@ section and run ~make~.
 
 - Tukey, J. W., [[https://projecteuclid.org/euclid.aoms/1177704711][The future of data analysis]], The annals of mathematical statistics, 33(1), 1–67 (1962). (cite:tukey1962future)
 
+- Ren, L., Xie, K., Chen, L., & Yu, K., [[https://arxiv.org/pdf/1810.09587.pdf][Towards universal dialogue state tracking]], arXiv preprint arXiv:1810.09587, (),  (2018). (cite:ren2018towards)
+
 ** 3 August, 2019
 - Kim, S., Eriksson, T., Kang, H., & Hee Youn, D., [[https://www.researchgate.net/publication/4087401_A_pitch_synchronous_feature_extraction_method_for_speaker_recognition/link/00b7d5364b1a66dafc000000/download][A pitch synchronous feature extraction method for speaker recognition]], In ,  (pp. ) (2004). : . (cite:PSMFCC)
 
