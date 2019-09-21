@@ -24,6 +24,8 @@ section and run ~make~.
 
 - Ren, L., Xie, K., Chen, L., & Yu, K., [[https://arxiv.org/pdf/1810.09587.pdf][Towards universal dialogue state tracking]], arXiv preprint arXiv:1810.09587, (),  (2018). (cite:ren2018towards)
 
+- Coucke, A., Saade, A., Ball, A., Th\'eodore Bluche, Caulier, A., Leroy, D., Cl\'ement Doumouro, …, [[http://arxiv.org/abs/1805.10190][Snips voice platform: an embedded spoken language understanding system for private-by-design voice interfaces]], CoRR, abs/1805.10190(),  (2018). (cite:DBLP:journals/corr/abs-1805-10190)
+
 ** 3 August, 2019
 - Kim, S., Eriksson, T., Kang, H., & Hee Youn, D., [[https://www.researchgate.net/publication/4087401_A_pitch_synchronous_feature_extraction_method_for_speaker_recognition/link/00b7d5364b1a66dafc000000/download][A pitch synchronous feature extraction method for speaker recognition]], In ,  (pp. ) (2004). : . (cite:PSMFCC)
 
