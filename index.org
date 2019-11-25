@@ -7,7 +7,7 @@
 #+HTML_HEAD: <link rel="stylesheet" href="./css/tufte.css" type="text/css" />
 
 #+begin_export html
-<h1>ML Paper Reading</h1>
+<h1>Paper Reading</h1>
 <p class="subtitle">@ Vernacular.ai</p>
 #+end_export
 
