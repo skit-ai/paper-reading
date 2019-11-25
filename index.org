@@ -27,6 +27,9 @@
     margin-bottom: 1.4rem;
     padding-right: 0;
   }
+  .badge {
+    width: revert;
+  }
   @media screen and (max-width: 760px) {
     .outline-text-1, .outline-text-2, .outline-text-3 {
       width: 100%;
@@ -37,13 +40,13 @@
 
 #+begin_export html
 <a href="./atom.xml">
-  <img alt="Atom url" src="https://img.shields.io/badge/follow-atom-blue?style=flat-square">
+  <img class="badge" alt="Atom url" src="https://img.shields.io/badge/follow-atom-blue?style=flat-square">
 </a>
 <a href="https://github.com/Vernacular-ai/paper-reading">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vernacular-ai/paper-reading?style=flat-square">
+  <img class="badge" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vernacular-ai/paper-reading?style=flat-square">
 </a>
 <a href="https://github.com/Vernacular-ai/paper-reading/watchers">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Vernacular-ai/paper-reading?label=watch%20on%20github&style=flat-square">
+  <img class="badge" alt="GitHub watchers" src="https://img.shields.io/github/watchers/Vernacular-ai/paper-reading?label=watch%20on%20github&style=flat-square">
 </a>
 #+end_export
 
