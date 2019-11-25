@@ -37,10 +37,10 @@
 
 #+begin_export html
 <a href="./atom.xml" class="no-underline">
-  <img alt="Atom url" src="https://img.shields.io/badge/follow-atom-blue?style=for-the-badge">
+  <img alt="Atom url" src="https://img.shields.io/badge/follow-atom-blue?style=flat-square">
 </a>
 <a href="https://github.com/Vernacular-ai/paper-reading" class="no-underline">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vernacular-ai/paper-reading?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vernacular-ai/paper-reading?style=flat-square">
 </a>
 #+end_export
 
