@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>paper-reading | vernacular.ai</title>
+  <link href="https://vernacular-ai.github.io/paper-reading">
+  <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self">
+  <updated>2019-11-25</updated>
+  <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>21 September, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Moody, C. E., <a href="https://arxiv.org/abs/1605.02019">Mixing dirichlet topic models and word embeddings to make lda2vec</a>, arXiv preprint arXiv:1605.02019, (),  (2016). (cite:moody2016mixing)</li>
+
+<li>Ren, L., Xie, K., Chen, L., &amp; Yu, K., <a href="https://arxiv.org/pdf/1810.09587.pdf">Towards universal dialogue state tracking</a>, arXiv preprint arXiv:1810.09587, (),  (2018). (cite:ren2018towards)</li>
+
+<li>Coucke, A., Saade, A., Ball, A., Th\'eodore Bluche, Caulier, A., Leroy, D., Cl\'ement Doumouro, …, <a href="http://arxiv.org/abs/1805.10190">Snips voice platform: an embedded spoken language understanding system for private-by-design voice interfaces</a>, CoRR, abs/1805.10190(),  (2018). (cite:DBLP:journals/corr/abs-1805-10190)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>3 August, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Kim, S., Eriksson, T., Kang, H., &amp; Hee Youn, D., <a href="https://www.researchgate.net/publication/4087401_A_pitch_synchronous_feature_extraction_method_for_speaker_recognition/link/00b7d5364b1a66dafc000000/download">A pitch synchronous feature extraction method for speaker recognition</a>, In ,  (pp. ) (2004). : . (cite:PSMFCC)</li>
+
+<li>Chen, J., <a href="http://www.columbia.edu/~jcc2161/documents/HumanVoice.pdf">Elements of human voice</a> (2016), : . (cite:HumanVoice)</li>
+
+<li>Ghorbani, A., &amp; Zou, J., <a href="http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf">Data shapley: equitable valuation of data for machine learning</a>, arXiv preprint arXiv:1904.02868, (),  (2019). (cite:ghorbani2019data)</li>
+
+<li>Shen, G., Horikawa, T., Majima, K., &amp; Kamitani, Y., <a href="https://journals.plos.org/ploscompbiol/article?rev=1&amp;id=10.1371/journal.pcbi.1006633">Deep image reconstruction from human brain activity</a>, PLoS computational biology, 15(1), 1006633 (2019). (cite:shen2019deep)</li>
+
+<li>Daum\'e III, Hal, <a href="http://legacydirs.umiacs.umd.edu/~hal/docs/daume07easyadapt.pdf">Frustratingly easy domain adaptation</a>, arXiv preprint arXiv:0907.1815, (),  (2009). (cite:daume2009frustratingly)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>27 July, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Belkin, M., Hsu, D., Ma, S., &amp; Mandal, S., <a href="https://arxiv.org/pdf/1812.11118.pdf">Reconciling modern machine learning and the bias-variance trade-off</a>, arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>20 July, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Locatello, F., Bauer, S., Lucic, M., Gelly, S., Sch\"olkopf, Bernhard, &amp; Bachem, O., <a href="https://arxiv.org/pdf/1811.12359.pdf">Challenging common assumptions in the unsupervised learning of disentangled representations</a>, arXiv preprint arXiv:1811.12359, (),  (2018). (cite:locatello2018challenging)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>13 July, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Advani, M. S., &amp; Saxe, A. M., <a href="https://arxiv.org/abs/1710.03667">High-dimensional dynamics of generalization error in neural networks</a>, arXiv preprint arXiv:1710.03667, (),  (2017). (cite:advani2017high)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>6 July, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Friedman, J., Hastie, T., &amp; Tibshirani, R., <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a>, In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)</li>
+
+<li>Barham, P., &amp; Isard, M., <a href="https://dl.acm.org/citation.cfm?id=3321441">Machine learning systems are stuck in a rut</a>, In , Proceedings of the Workshop on Hot Topics in Operating Systems (pp. 177–183) (2019). New York, NY, USA: ACM. (cite:barham2019machine)</li>
+
+<li>Hastie, T., Montanari, A., Rosset, S., &amp; Tibshirani, R. J., <a href="http://www.stat.cmu.edu/~ryantibs/papers/lsinter.pdf">Surprises in high-dimensional ridgeless least squares interpolation</a>, arXiv preprint arXiv:1903.08560, (),  (2019). (cite:hastie2019surprises)</li>
+
+<li>Levitan, S. I., Mishra, T., &amp; Bangalore, S., <a href="http://www.cs.columbia.edu/~sarahita/papers/speech_prosody16.pdf">Automatic identification of gender from speech</a>, In , Proceeding of Speech Prosody (pp. 84–88) (2016). : . (cite:levitan2016automatic)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>1 July, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Friedman, J., Hastie, T., &amp; Tibshirani, R., <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a>, In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)</li>
+
+<li>Graf, S., Herbig, T., Buck, M., &amp; Schmidt, G., <a href="https://asp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13634-015-0277-z">Features for voice activity detection: a comparative analysis</a>, EURASIP Journal on Advances in Signal Processing, 2015(1), 91 (2015). (cite:graf2015features)</li>
+
+<li>Welling, M., &amp; Teh, Y. W., <a href="https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf">Bayesian learning via stochastic gradient langevin dynamics</a>, In , Proceedings of the 28th international conference on machine learning (ICML-11) (pp. 681–688) (2011). : . (cite:welling2011bayesian)</li>
+
+<li>Goodman, J., <a href="https://arxiv.org/pdf/cs/0108005.pdf">A bit of progress in language modeling</a>, arXiv preprint arXiv:cs/0108005, (),  (2001). (cite:goodman2001progress)</li>
+
+<li>Cotterell, R., Mielke, S. J., Eisner, J., &amp; Roark, B., <a href="https://www.aclweb.org/anthology/N18-2085">Are all languages equally hard to language-model?</a>, In , Proceedings of the 2018 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers) (pp. 536–541) (2018). New Orleans, Louisiana: Association for Computational Linguistics. (cite:cotterell-etal-2018-languages)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>25 June, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Reynolds, D. A., Quatieri, T. F., &amp; Dunn, R. B., <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&amp;rep=rep1&amp;type=pdf">Speaker verification using adapted gaussian mixture models</a>, Digital signal processing, 10(1-3), 19–41 (2000). (cite:reynolds2000speaker)</li>
+
+<li>Jasper Snoek, H. L., &amp; Adams, R. P., <a href="https://arxiv.org/pdf/1206.2944.pdf">Practical bayesian optimization of machine learning algorithms</a>, arXiv preprint arXiv:1206.2944, (),  (2012). (cite:snoek2012practical)</li>
+
+<li>Breck, E., Zinkevich, M., Polyzotis, N., Whang, S., &amp; Roy, S., <a href="https://www.sysml.cc/doc/2019/167.pdf">Data validation for machine learning</a>, In , Proceedings of SysML (pp. ) (2019). : . (cite:breck2019data)</li>
+
+<li>Carbonell, J. G., <a href="https://link.springer.com/chapter/10.1007/978-3-662-12405-5_5">Learning by analogy: formulating and generalizing plans from past experience</a>, In  (Eds.), Machine learning (pp. 137–161) (1983). : Springer. (cite:carbonell1983learning)</li>
+
+<li>Liu, B., Wang, L., Liu, M., &amp; Xu, C., <a href="https://arxiv.org/abs/1901.06455">Lifelong federated reinforcement learning: a learning architecture for navigation in cloud robotic systems</a>, , abs/1901.06455(),  (2019). (cite:Liu2019LifelongFR)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>15 June, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Mohri, M., Pereira, F., &amp; Riley, M., <a href="http://www.sciencedirect.com/science/article/pii/S0885230801901846">Weighted finite-state transducers in speech recognition</a>, Computer Speech &amp; Language, 16(1), 69–88 (2002). (cite:MOHRI200269)</li>
+
+<li>Ueffing, N., Bisani, M., &amp; Vozila, P., <a href="https://research.nuance.com/wp-content/uploads/2014/11/AutoPunc_Interspeech2013_paper_finalsubmission.pdf">Improved models for automatic punctuation prediction for spoken and written text.</a>, In , Interspeech (pp. 3097–3101) (2013). : . (cite:ueffing2013improved)</li>
+
+<li>Liu, Z., Miao, Z., Zhan, X., Wang, J., Gong, B., &amp; Yu, S. X., <a href="https://arxiv.org/abs/1904.05160">Large-scale long-tailed recognition in an open world</a>, arXiv preprint arXiv:1904.05160, (),  (2019). (cite:liu2019large)</li>
+
+<li>Iyer, A., Jonnalagedda, M., Parthasarathy, S., Radhakrishna, A., &amp; Rajamani, S. K., <a href="https://www.microsoft.com/en-us/research/publication/synthesis-and-machine-learning-for-heterogeneous-extraction/">Synthesis and machine learning for heterogeneous extraction</a>, In , Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (pp. 301–315) (2019). : . (cite:iyer2019synthesis)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>8 June, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Dehak, N., Kenny, P. J., Dehak, R\'eda, Dumouchel, P., &amp; Ouellet, P., <a href="https://ieeexplore.ieee.org/document/5545402">Front-end factor analysis for speaker verification</a>, IEEE Transactions on Audio, Speech, and Language Processing, 19(4), 788–798 (2010). (cite:dehak2010front)</li>
+
+<li>Dehak, N., Dehak, R., Kenny, P., Br\"ummer, Niko, Ouellet, P., &amp; Dumouchel, P., <a href="https://www.crim.ca/perso/patrick.kenny/IS090079.PDF">Support vector machines versus fast scoring in the low-dimensional total variability space for speaker verification</a>, In , Tenth Annual conference of the international speech communication association (pp. ) (2009). : . (cite:dehak2009support)</li>
+
+<li>Sutton, C., &amp; McCallum, A., <a href="https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf">An introduction to conditional random fields for relational learning</a>, In  (Eds.), Introduction to Statistical Relational Learning (pp. ) (2006). : . (cite:sutton06introduction)</li>
+
+<li>Mendis, C., Droppo, J., Maleki, S., Musuvathi, M., Mytkowicz, T., &amp; Zweig, G., <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/ParallelizingWFSTSpeechDecoders.ICASSP2016.pdf">Parallelizing wfst speech decoders</a>, In , 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5325–5329) (2016). : . (cite:mendis2016parallelizing)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>1 June, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., &amp; others, , <a href="https://arxiv.org/abs/1707.02038">A tutorial on thompson sampling</a>, Foundations and Trends{\textregistered} in Machine Learning, 11(1), 1–96 (2018). (cite:russo2018tutorial)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>18 May, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Gravano, A., Jansche, M., &amp; Bacchiani, M., <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34562.pdf">Restoring punctuation and capitalization in transcribed speech</a>, In , 2009 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 4741–4744) (2009). : . (cite:gravano2009restoring)</li>
+
+<li>Mintz, M., Bills, S., Snow, R., &amp; Jurafsky, D., <a href="https://web.stanford.edu/~jurafsky/mintz.pdf">Distant supervision for relation extraction without labeled data</a>, In , Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL and the 4th International Joint Conference on Natural Language Processing of the AFNLP: Volume 2-Volume 2 (pp. 1003–1011) (2009). : . (cite:mintz2009distant)</li>
+
+<li>Beygelzimer, A., Daum\'e, Hal, Langford, J., &amp; Mineiro, P., <a href="https://arxiv.org/abs/1502.02704">Learning reductions that really work</a>, Proceedings of the IEEE, 104(1), 136–147 (2016). (cite:beygelzimer2016learning)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>13 May, 2019</title>
+    <content type="html">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="org-ul">
+<li>Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., Chaudhary, V., …, <a href="https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems">Hidden technical debt in machine learning systems</a>, In , Advances in neural information processing systems (pp. 2503–2511) (2015). : . (cite:sculley2015hidden)</li>
+
+<li>Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., Krikun, M., …, <a href="https://arxiv.org/abs/1609.08144">Google's neural machine translation system: bridging the gap between human and machine translation</a>, arXiv preprint arXiv:1609.08144, (),  (2016). (cite:wu2016google)</li>
+
+<li>Ghahramani, Z., <a href="https://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf">Unsupervised learning</a>, In , Summer School on Machine Learning (pp. 72–112) (2003). : . (cite:ghahramani2003unsupervised)</li>
+
+<li>Hundman, K., Constantinou, V., Laporte, C., Colwell, I., &amp; Soderstrom, T., <a href="https://arxiv.org/abs/1802.04431">Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding</a>, In , Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&amp; Data Mining (pp. 387–395) (2018). : . (cite:hundman2018detecting)</li>
+</ul>
+
+      </div>
+    </content>
+  </entry>
+</feed>

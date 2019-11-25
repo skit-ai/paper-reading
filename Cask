@@ -6,3 +6,4 @@
 (depends-on "parsebib")
 (depends-on "s")
 (depends-on "ox-tufte")
+(depends-on "mustache")
