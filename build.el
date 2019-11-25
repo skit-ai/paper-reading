@@ -2,6 +2,7 @@
 (require 'f)
 (require 'ht)
 (require 'mustache)
+(require 'ts)
 
 (defcustom input-file "./index.org"
   "Input org file to transform")
@@ -21,14 +22,15 @@
 (defvar atom-template "<?xml version=\"1.0\" encoding=\"utf-8\"?>
 <feed xmlns=\"http://www.w3.org/2005/Atom\">
   <title>{{ root-title }}</title>
-  <link href=\"{{ root-url }}\">
-  <link href=\"{{ root-url }}/atom.xml\" rel=\"self\">
+  <link href=\"{{ root-url }}\"/>
+  <link href=\"{{ root-url }}/atom.xml\" rel=\"self\"/>
   <updated>{{ root-date }}</updated>
   <author><name>{{ root-author }}</name></author>
   {{#entry}}
   <entry>
     <title>{{ title }}</title>
-    <content type=\"html\">
+    <updated>{{ date }}</updated>
+    <content type=\"xhtml\">
       <div xmlns=\"http://www.w3.org/1999/xhtml\">
         {{{ content }}}
       </div>
@@ -54,15 +56,17 @@
   (mapcar #'ht<-alist
           (org-element-map (org-element-parse-buffer) 'headline
             (lambda (hl)
-              `(("title" . ,(org-element-property :raw-value hl))
-                ("content" . ,(parse-hl-content hl)))))))
+              (let ((title (org-element-property :raw-value hl)))
+                `(("title" . ,title)
+                  ("content" . ,(parse-hl-content hl))
+                  ("date" . ,(ts-format "%FT%T%z" (ts-parse title)))))))))
 
 (defun format-atom ()
   (mustache-render atom-template
                    (ht ("root-title" root-title)
                        ("root-author" "Vernacular.ai")
                        ("root-url" root-url)
-                       ("root-date" (format-time-string "%Y-%m-%d"))
+                       ("root-date" (ts-format "%FT%T%z" (ts-now)))
                        ("entry" (parse-entries)))))
 
 (with-current-buffer (find-file-noselect input-file)

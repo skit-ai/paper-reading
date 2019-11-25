@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>paper-reading | vernacular.ai</title>
-  <link href="https://vernacular-ai.github.io/paper-reading">
-  <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self">
-  <updated>2019-11-25</updated>
+  <link href="https://vernacular-ai.github.io/paper-reading"/>
+  <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
+  <updated>2019-11-26T00:08:51+0530</updated>
   <author><name>Vernacular.ai</name></author>
   <entry>
     <title>21 September, 2019</title>
-    <content type="html">
+    <updated>2019-09-21T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Moody, C. E., <a href="https://arxiv.org/abs/1605.02019">Mixing dirichlet topic models and word embeddings to make lda2vec</a>, arXiv preprint arXiv:1605.02019, (),  (2016). (cite:moody2016mixing)</li>
@@ -22,7 +23,8 @@
   </entry>
   <entry>
     <title>3 August, 2019</title>
-    <content type="html">
+    <updated>2019-08-03T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Kim, S., Eriksson, T., Kang, H., &amp; Hee Youn, D., <a href="https://www.researchgate.net/publication/4087401_A_pitch_synchronous_feature_extraction_method_for_speaker_recognition/link/00b7d5364b1a66dafc000000/download">A pitch synchronous feature extraction method for speaker recognition</a>, In ,  (pp. ) (2004). : . (cite:PSMFCC)</li>
@@ -41,7 +43,8 @@
   </entry>
   <entry>
     <title>27 July, 2019</title>
-    <content type="html">
+    <updated>2019-07-27T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Belkin, M., Hsu, D., Ma, S., &amp; Mandal, S., <a href="https://arxiv.org/pdf/1812.11118.pdf">Reconciling modern machine learning and the bias-variance trade-off</a>, arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)</li>
@@ -52,7 +55,8 @@
   </entry>
   <entry>
     <title>20 July, 2019</title>
-    <content type="html">
+    <updated>2019-07-20T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Locatello, F., Bauer, S., Lucic, M., Gelly, S., Sch\"olkopf, Bernhard, &amp; Bachem, O., <a href="https://arxiv.org/pdf/1811.12359.pdf">Challenging common assumptions in the unsupervised learning of disentangled representations</a>, arXiv preprint arXiv:1811.12359, (),  (2018). (cite:locatello2018challenging)</li>
@@ -63,7 +67,8 @@
   </entry>
   <entry>
     <title>13 July, 2019</title>
-    <content type="html">
+    <updated>2019-07-13T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Advani, M. S., &amp; Saxe, A. M., <a href="https://arxiv.org/abs/1710.03667">High-dimensional dynamics of generalization error in neural networks</a>, arXiv preprint arXiv:1710.03667, (),  (2017). (cite:advani2017high)</li>
@@ -74,7 +79,8 @@
   </entry>
   <entry>
     <title>6 July, 2019</title>
-    <content type="html">
+    <updated>2019-07-06T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Friedman, J., Hastie, T., &amp; Tibshirani, R., <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a>, In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)</li>
@@ -91,7 +97,8 @@
   </entry>
   <entry>
     <title>1 July, 2019</title>
-    <content type="html">
+    <updated>2019-07-01T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Friedman, J., Hastie, T., &amp; Tibshirani, R., <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a>, In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)</li>
@@ -110,7 +117,8 @@
   </entry>
   <entry>
     <title>25 June, 2019</title>
-    <content type="html">
+    <updated>2019-06-25T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Reynolds, D. A., Quatieri, T. F., &amp; Dunn, R. B., <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&amp;rep=rep1&amp;type=pdf">Speaker verification using adapted gaussian mixture models</a>, Digital signal processing, 10(1-3), 19–41 (2000). (cite:reynolds2000speaker)</li>
@@ -129,7 +137,8 @@
   </entry>
   <entry>
     <title>15 June, 2019</title>
-    <content type="html">
+    <updated>2019-06-15T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Mohri, M., Pereira, F., &amp; Riley, M., <a href="http://www.sciencedirect.com/science/article/pii/S0885230801901846">Weighted finite-state transducers in speech recognition</a>, Computer Speech &amp; Language, 16(1), 69–88 (2002). (cite:MOHRI200269)</li>
@@ -146,7 +155,8 @@
   </entry>
   <entry>
     <title>8 June, 2019</title>
-    <content type="html">
+    <updated>2019-06-08T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Dehak, N., Kenny, P. J., Dehak, R\'eda, Dumouchel, P., &amp; Ouellet, P., <a href="https://ieeexplore.ieee.org/document/5545402">Front-end factor analysis for speaker verification</a>, IEEE Transactions on Audio, Speech, and Language Processing, 19(4), 788–798 (2010). (cite:dehak2010front)</li>
@@ -163,7 +173,8 @@
   </entry>
   <entry>
     <title>1 June, 2019</title>
-    <content type="html">
+    <updated>2019-06-01T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., &amp; others, , <a href="https://arxiv.org/abs/1707.02038">A tutorial on thompson sampling</a>, Foundations and Trends{\textregistered} in Machine Learning, 11(1), 1–96 (2018). (cite:russo2018tutorial)</li>
@@ -174,7 +185,8 @@
   </entry>
   <entry>
     <title>18 May, 2019</title>
-    <content type="html">
+    <updated>2019-05-18T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Gravano, A., Jansche, M., &amp; Bacchiani, M., <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34562.pdf">Restoring punctuation and capitalization in transcribed speech</a>, In , 2009 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 4741–4744) (2009). : . (cite:gravano2009restoring)</li>
@@ -189,7 +201,8 @@
   </entry>
   <entry>
     <title>13 May, 2019</title>
-    <content type="html">
+    <updated>2019-05-13T00:00:00+0530</updated>
+    <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
 <li>Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., Chaudhary, V., …, <a href="https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems">Hidden technical debt in machine learning systems</a>, In , Advances in neural information processing systems (pp. 2503–2511) (2015). : . (cite:sculley2015hidden)</li>

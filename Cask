@@ -7,3 +7,4 @@
 (depends-on "s")
 (depends-on "ox-tufte")
 (depends-on "mustache")
+(depends-on "ts")
