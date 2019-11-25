@@ -1,10 +1,10 @@
-#+TITLE: paper-reading
+#+TITLE: paper-reading | vernacular.ai
 #+OPTIONS: *:t -:t ::t <:t ^:nil broken-links:mark c:t creator:t
 #+OPTIONS: d:t date:t e:t email:nil f:t H:6 inline:t num:nil p:t
 #+OPTIONS: pri:t prop:t stat:t tasks:t tex:t timestamp:t toc:nil
 #+OPTIONS: todo:t |:t toc:nil title:nil author:nil
 
-#+HTML_HEAD: <link rel="stylesheet" href="/css/tufte.css" type="text/css" />
+#+HTML_HEAD: <link rel="stylesheet" href="./css/tufte.css" type="text/css" />
 
 #+begin_export html
 <h1>ML Paper Reading</h1>
