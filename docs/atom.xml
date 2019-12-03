@@ -3,7 +3,7 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2019-12-03T13:31:37+0530</updated>
+  <updated>2019-12-03T14:41:08+0530</updated>
   <author><name>Vernacular.ai</name></author>
   <entry>
     <title>29 November, 2019</title>
@@ -28,9 +28,9 @@ they are trying to solve:
 
 <p>
 For this, they make easy to use abstractions for describing supervision and
-developing modelling. They also do a lot of multitask learning and snorkelish
-weak supervision, including the recent slicing abstractions for fine grained
-quality control.
+developing models. They also do a lot of multitask learning and snorkelish weak
+supervision, including the recent slicing abstractions for fine grained quality
+control.
 </p>
 
 <p>
@@ -65,9 +65,9 @@ they are trying to solve:
 
 <p>
 For this, they make easy to use abstractions for describing supervision and
-developing modelling. They also do a lot of multitask learning and snorkelish
-weak supervision, including the recent slicing abstractions for fine grained
-quality control.
+developing models. They also do a lot of multitask learning and snorkelish weak
+supervision, including the recent slicing abstractions for fine grained quality
+control.
 </p>
 
 <p>
@@ -95,16 +95,16 @@ This is taking the snorkel's labelling function idea to group data instances in
 <i>slices</i>, segments which are interesting to us from an overall quality
 perspective. These slicing functions are important not only for identifying and
 narrowing down to specific kinds of data instances but also for learning slice
-specific representations which act as computationally cheaper way of replicating
-a Mixture of Experts style models.
+specific representations which works out as computationally cheap way (there are
+other benefits too) of replicating a Mixture of Experts style model.
 </p>
 
 <p>
 Like with labelling functions, we have the slice membership predicted using
-heuristics which are cheap and noisy. This membership value along with slice
-representations (and slice prediction confidences) help creating the slice aware
+heuristics which are noisy. This membership value along with slice
+representations (and slice prediction confidences) help create the slice aware
 representation to be used for the final task. The appendix has few good examples
-for slicing functions.
+of slicing functions.
 </p>
 
       </div>
