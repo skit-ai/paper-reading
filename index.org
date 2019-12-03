@@ -30,6 +30,15 @@
   .badge {
     width: revert;
   }
+  h2 {
+    margin-top: 80px;
+  }
+  h3 {
+    margin-top: 60px;
+  }
+  .outline-text-3 p {
+    width: revert;
+  }
   @media screen and (max-width: 760px) {
     .outline-text-1, .outline-text-2, .outline-text-3 {
       width: 100%;
@@ -52,6 +61,49 @@
 
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
+
+* 29 November, 2019
+** Overton: A Data System for Monitoring and Improving Machine-Learned Products
+:PROPERTIES:
+:CUSTOM_ID: re2019overton
+:YEAR:     2019
+:AUTHOR:   Ré, Christopher and Niu, Feng and Gudipati, Pallavi and Srisuwananukorn, Charles
+:END:
+
+This is more about managing supervision than model. There are 3 problems that
+they are trying to solve:
+1. Fine grained quality monitoring,
+2. Support for multi-component pipelines, and
+3. Updating supervision
+
+For this, they make easy to use abstractions for describing supervision and
+developing modelling. They also do a lot of multitask learning and snorkelish
+weak supervision, including the recent slicing abstractions for fine grained
+quality control.
+
+While you have to adapt a few pieces for your own case (and scale), Overton is a
+nice testimony for success of things like weak supervision and higher level
+development abstractions in production.
+
+** Slice-based learning: A programming model for residual learning in critical data slices
+:PROPERTIES:
+:CUSTOM_ID: chen2019slice
+:YEAR:     2019
+:AUTHOR:   Chen, Vincent and Wu, Sen and Ratner, Alexander J and Weng, Jen and Ré, Christopher
+:END:
+
+This is taking the snorkel's labelling function idea to group data instances in
+/slices/, segments which are interesting to us from an overall quality
+perspective. These slicing functions are important not only for identifying and
+narrowing down to specific kinds of data instances but also for learning slice
+specific representations which act as computationally cheaper way of replicating
+a Mixture of Experts style models.
+
+Like with labelling functions, we have the slice membership predicted using
+heuristics which are cheap and noisy. This membership value along with slice
+representations (and slice prediction confidences) help creating the slice aware
+representation to be used for the final task. The appendix has few good examples
+for slicing functions.
 
 * 21 September, 2019
 - Moody, C. E., [[https://arxiv.org/abs/1605.02019][Mixing dirichlet topic models and word embeddings to make lda2vec]], arXiv preprint arXiv:1605.02019, (),  (2016). (cite:moody2016mixing)

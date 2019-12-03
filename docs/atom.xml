@@ -3,8 +3,113 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2019-11-26T01:09:47+0530</updated>
+  <updated>2019-12-03T13:31:37+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>29 November, 2019</title>
+    <updated>2019-11-29T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: re2019overton
+:YEAR:     2019
+:AUTHOR:   Ré, Christopher and Niu, Feng and Gudipati, Pallavi and Srisuwananukorn, Charles
+</p>
+
+<p>
+This is more about managing supervision than model. There are 3 problems that
+they are trying to solve:
+</p>
+<ol class="org-ol">
+<li>Fine grained quality monitoring,</li>
+<li>Support for multi-component pipelines, and</li>
+<li>Updating supervision</li>
+</ol>
+
+<p>
+For this, they make easy to use abstractions for describing supervision and
+developing modelling. They also do a lot of multitask learning and snorkelish
+weak supervision, including the recent slicing abstractions for fine grained
+quality control.
+</p>
+
+<p>
+While you have to adapt a few pieces for your own case (and scale), Overton is a
+nice testimony for success of things like weak supervision and higher level
+development abstractions in production.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Overton: A Data System for Monitoring and Improving Machine-Learned Products</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: re2019overton
+:YEAR:     2019
+:AUTHOR:   Ré, Christopher and Niu, Feng and Gudipati, Pallavi and Srisuwananukorn, Charles
+</p>
+
+<p>
+This is more about managing supervision than model. There are 3 problems that
+they are trying to solve:
+</p>
+<ol class="org-ol">
+<li>Fine grained quality monitoring,</li>
+<li>Support for multi-component pipelines, and</li>
+<li>Updating supervision</li>
+</ol>
+
+<p>
+For this, they make easy to use abstractions for describing supervision and
+developing modelling. They also do a lot of multitask learning and snorkelish
+weak supervision, including the recent slicing abstractions for fine grained
+quality control.
+</p>
+
+<p>
+While you have to adapt a few pieces for your own case (and scale), Overton is a
+nice testimony for success of things like weak supervision and higher level
+development abstractions in production.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Slice-based learning: A programming model for residual learning in critical data slices</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: chen2019slice
+:YEAR:     2019
+:AUTHOR:   Chen, Vincent and Wu, Sen and Ratner, Alexander J and Weng, Jen and Ré, Christopher
+</p>
+
+<p>
+This is taking the snorkel's labelling function idea to group data instances in
+<i>slices</i>, segments which are interesting to us from an overall quality
+perspective. These slicing functions are important not only for identifying and
+narrowing down to specific kinds of data instances but also for learning slice
+specific representations which act as computationally cheaper way of replicating
+a Mixture of Experts style models.
+</p>
+
+<p>
+Like with labelling functions, we have the slice membership predicted using
+heuristics which are cheap and noisy. This membership value along with slice
+representations (and slice prediction confidences) help creating the slice aware
+representation to be used for the final task. The appendix has few good examples
+for slicing functions.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>21 September, 2019</title>
     <updated>2019-09-21T00:00:00+0530</updated>
