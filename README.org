@@ -1,3 +1,17 @@
 #+TITLE: paper-reading
 
-List of papers we cover during our weekly paper reading session. Accessible [[https://vernacular-ai.github.io/paper-reading/][here]].
+List of papers we cover during our weekly paper reading session. Accessible
+[[https://vernacular-ai.github.io/paper-reading/][here]].
+
+** Setting up
+For building you will need [[https://www.gnu.org/software/emacs/][Emacs]] and [[https://github.com/cask/cask][cask]]. Once installed, do =cask install= in
+this directory for installing dependencies.
+
+The html files are generated based on the content in =index.org=. For adding a
+reading, update the org file under a date heading (the format matters as we use
+it to generate atom feeds) and do a =make=. Generated files are kept in =./docs/=.
+
+Only the main =make= step is sufficient for making the github url
+(https://vernacular-ai.github.io/paper-reading) to work. For deploying to s3
+(served at the https://backyard.vernacular.ai/paper-reading url), do =make
+deploy=. Notice that you need to be logged in =aws= cli for this.
