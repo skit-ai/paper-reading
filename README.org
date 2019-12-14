@@ -11,7 +11,7 @@ The html files are generated based on the content in =index.org=. For adding a
 reading, update the org file under a date heading (the format matters as we use
 it to generate atom feeds) and do a =make=. Generated files are kept in =./docs/=.
 
-Only the main =make= step is sufficient for making the github url
+Only the main =make= step is sufficient for the github url
 (https://vernacular-ai.github.io/paper-reading) to work. For deploying to s3
 (served at the https://backyard.vernacular.ai/paper-reading url), do =make
 deploy=. Notice that you need to be logged in =aws= cli for this.
