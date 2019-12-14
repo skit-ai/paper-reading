@@ -70,7 +70,31 @@ missing links/notes, check out the (private) wiki.
 :AUTHOR:   Serdyuk, Dmitriy and Wang, Yongqiang and Fuegen, Christian and Kumar, Anuj and Liu, Baiyang and Bengio, Yoshua
 :END:
 
-This paper talks about developing an end to end model for intent recognition form speech. Currently, all the models have several components like ASR and NLU, which each have some errors of their own degrading the quality of the speech to intent pipeline. Experiments for two tasks, speech to domain and speech to intent were performed using the model. The model's architecture is mostly inspired from end to end speech synthesis models. A unique feature of the architecture is that they perform sub-sampling after the first GRU layer to reduce the size of the vector and to tackle the problem of vanishing gradient.
+This paper talks about developing an end to end model for intent recognition
+form speech. Currently, all the models have several components like ASR and NLU,
+which each have some errors of their own degrading the quality of the speech to
+intent pipeline. Experiments for two tasks, speech to domain and speech to
+intent were performed using the model. The model's architecture is mostly
+inspired from end to end speech synthesis models. A unique feature of the
+architecture is that they perform sub-sampling after the first GRU layer to
+reduce the size of the vector and to tackle the problem of vanishing gradient.
+
+** Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One
+:PROPERTIES:
+:CUSTOM_ID: grathwohl2019classifier
+:YEAR:     2019
+:AUTHOR:   Will Grathwohl and Kuan-Chieh Wang and Jörn-Henrik Jacobsen and David Duvenaud and Mohammad Norouzi and Kevin Swersky
+:END:
+
+They take a regular classifier, pick out logits before softmax and try to
+formulate an energy based model able to give $P(x, y)$ and $P(x)$. The
+formulation itself is pretty simple with the energy function being $E(x) =
+−LogSumExp_yf_\Theta(x)[y]$. Final loss sums cross entropy (for discriminative part)
+and negative log likelhood of $P(x)$ approximated using SGLD. Check out the repo
+[[https://github.com/wgrathwohl/JEM][here]].
+
+Although the learning mechanism is a little fragile and needs work to be
+generally stable, the results are neat.
 
 * 29 November, 2019
 ** Overton: A Data System for Monitoring and Improving Machine-Learned Products

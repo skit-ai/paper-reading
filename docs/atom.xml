@@ -3,8 +3,86 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2019-12-13T17:22:00+0530</updated>
+  <updated>2019-12-14T21:43:37+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>13 December, 2019</title>
+    <updated>2019-12-13T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: serdyuk2018towards
+:YEAR:     2018
+:AUTHOR:   Serdyuk, Dmitriy and Wang, Yongqiang and Fuegen, Christian and Kumar, Anuj and Liu, Baiyang and Bengio, Yoshua
+</p>
+
+<p>
+This paper talks about developing an end to end model for intent recognition
+form speech. Currently, all the models have several components like ASR and NLU,
+which each have some errors of their own degrading the quality of the speech to
+intent pipeline. Experiments for two tasks, speech to domain and speech to
+intent were performed using the model. The model's architecture is mostly
+inspired from end to end speech synthesis models. A unique feature of the
+architecture is that they perform sub-sampling after the first GRU layer to
+reduce the size of the vector and to tackle the problem of vanishing gradient.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Towards end-to-end spoken language understanding</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: serdyuk2018towards
+:YEAR:     2018
+:AUTHOR:   Serdyuk, Dmitriy and Wang, Yongqiang and Fuegen, Christian and Kumar, Anuj and Liu, Baiyang and Bengio, Yoshua
+</p>
+
+<p>
+This paper talks about developing an end to end model for intent recognition
+form speech. Currently, all the models have several components like ASR and NLU,
+which each have some errors of their own degrading the quality of the speech to
+intent pipeline. Experiments for two tasks, speech to domain and speech to
+intent were performed using the model. The model's architecture is mostly
+inspired from end to end speech synthesis models. A unique feature of the
+architecture is that they perform sub-sampling after the first GRU layer to
+reduce the size of the vector and to tackle the problem of vanishing gradient.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: grathwohl2019classifier
+:YEAR:     2019
+:AUTHOR:   Will Grathwohl and Kuan-Chieh Wang and Jörn-Henrik Jacobsen and David Duvenaud and Mohammad Norouzi and Kevin Swersky
+</p>
+
+<p>
+They take a regular classifier, pick out logits before softmax and try to
+formulate an energy based model able to give \(P(x, y)\) and \(P(x)\). The
+formulation itself is pretty simple with the energy function being \(E(x) =
+−LogSumExp_yf_\Theta(x)[y]\). Final loss sums cross entropy (for discriminative part)
+and negative log likelhood of \(P(x)\) approximated using SGLD. Check out the repo
+<a href="https://github.com/wgrathwohl/JEM">here</a>.
+</p>
+
+<p>
+Although the learning mechanism is a little fragile and needs work to be
+generally stable, the results are neat.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>29 November, 2019</title>
     <updated>2019-11-29T00:00:00+0530</updated>
