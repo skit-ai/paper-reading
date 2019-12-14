@@ -1,7 +1,7 @@
 #+TITLE: paper-reading
 
 List of papers we cover during our weekly paper reading session. Accessible
-[[https://vernacular-ai.github.io/paper-reading/][here]].
+[[https://backyard.vernacular.ai/paper-reading/][here]].
 
 ** Setting up
 For building you will need [[https://www.gnu.org/software/emacs/][Emacs]] and [[https://github.com/cask/cask][cask]]. Once installed, do =cask install= in
