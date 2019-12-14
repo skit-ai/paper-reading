@@ -62,6 +62,16 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 13 December, 2019
+** Towards end-to-end spoken language understanding
+:PROPERTIES:
+:CUSTOM_ID: serdyuk2018towards
+:YEAR:     2018
+:AUTHOR:   Serdyuk, Dmitriy and Wang, Yongqiang and Fuegen, Christian and Kumar, Anuj and Liu, Baiyang and Bengio, Yoshua
+:END:
+
+This paper talks about developing an end to end model for intent recognition form speech. Currently, all the models have several components like ASR and NLU, which each have some errors of their own degrading the quality of the speech to intent pipeline. Experiments for two tasks, speech to domain and speech to intent were performed using the model. The model's architecture is mostly inspired from end to end speech synthesis models. A unique feature of the architecture is that they perform sub-sampling after the first GRU layer to reduce the size of the vector and to tackle the problem of vanishing gradient.
+
 * 29 November, 2019
 ** Overton: A Data System for Monitoring and Improving Machine-Learned Products
 :PROPERTIES:
