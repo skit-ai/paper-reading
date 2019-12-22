@@ -62,6 +62,19 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 20 December, 2019
+** Generalized end-to-end loss for speaker verification
+:PROPERTIES:
+:CUSTOM_ID: wan2018generalized
+:YEAR:     2018
+:AUTHOR:   Wan, Li and Wang, Quan and Papir, Alan and Moreno, Ignacio Lopez
+:END:
+
+This paper is development over their previous research work, Tuple-based end to end(TE2E) loss, for speaker identification. They try to generalize the concept of the cosine similarity being used in TE2E by creating similarity matrics for utterances by a user. They have suggested two losses in the paper:
+1) Softmax loss
+2) Contrast loss
+Both these loss functions had two components, one which brings utterances by a user together and others, which separates the utterances of different users. Out of the two, Contrast loss is more rigorous.
+
 * 13 December, 2019
 ** Towards end-to-end spoken language understanding
 :PROPERTIES:
