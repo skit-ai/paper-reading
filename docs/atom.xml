@@ -3,8 +3,62 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-01-17T15:09:33+0530</updated>
+  <updated>2020-01-17T15:13:21+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>10 January, 2020</title>
+    <updated>2020-01-10T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: sleator1995parsing
+:YEAR:     1995
+:AUTHOR:   Sleator, Daniel DK and Temperley, Davy
+</p>
+
+<p>
+We came to here via opencog's <a href="https://github.com/opencog/learn">learn</a> project. This is a nice perspective setup
+also if you are missing out on formal introduction of grammars and all. Overall
+a link grammar defines connectors on left and right side of a word with
+disjunctions and conjunctions incorporated which then <i>link</i> together to form a
+sentence, under certain constraints.
+</p>
+
+<p>
+This specific paper shows the formulation and creates a parser for English,
+covering many (not all) linguistics phenomena.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Parsing English with a link grammar</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: sleator1995parsing
+:YEAR:     1995
+:AUTHOR:   Sleator, Daniel DK and Temperley, Davy
+</p>
+
+<p>
+We came to here via opencog's <a href="https://github.com/opencog/learn">learn</a> project. This is a nice perspective setup
+also if you are missing out on formal introduction of grammars and all. Overall
+a link grammar defines connectors on left and right side of a word with
+disjunctions and conjunctions incorporated which then <i>link</i> together to form a
+sentence, under certain constraints.
+</p>
+
+<p>
+This specific paper shows the formulation and creates a parser for English,
+covering many (not all) linguistics phenomena.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>20 December, 2019</title>
     <updated>2019-12-20T00:00:00+0530</updated>
@@ -17,14 +71,21 @@
 </p>
 
 <p>
-This paper is development over their previous research work, Tuple-based end to end(TE2E) loss, for speaker identification. They try to generalize the concept of the cosine similarity being used in TE2E by creating similarity matrics for utterances by a user. They have suggested two losses in the paper:
+This paper is development over their previous research work, Tuple-based end to
+end(TE2E) loss, for speaker identification. They try to generalize the concept
+of the cosine similarity being used in TE2E by creating similarity matrics for
+utterances by a user. They have suggested two losses in the paper:
 </p>
+
 <ol class="org-ol">
 <li>Softmax loss</li>
 <li>Contrast loss</li>
 </ol>
+
 <p>
-Both these loss functions had two components, one which brings utterances by a user together and others, which separates the utterances of different users. Out of the two, Contrast loss is more rigorous.
+Both these loss functions had two components, one which brings utterances by a
+user together and others, which separates the utterances of different users. Out
+of the two, Contrast loss is more rigorous.
 </p>
 
       </div>
@@ -42,14 +103,21 @@ Both these loss functions had two components, one which brings utterances by a u
 </p>
 
 <p>
-This paper is development over their previous research work, Tuple-based end to end(TE2E) loss, for speaker identification. They try to generalize the concept of the cosine similarity being used in TE2E by creating similarity matrics for utterances by a user. They have suggested two losses in the paper:
+This paper is development over their previous research work, Tuple-based end to
+end(TE2E) loss, for speaker identification. They try to generalize the concept
+of the cosine similarity being used in TE2E by creating similarity matrics for
+utterances by a user. They have suggested two losses in the paper:
 </p>
+
 <ol class="org-ol">
 <li>Softmax loss</li>
 <li>Contrast loss</li>
 </ol>
+
 <p>
-Both these loss functions had two components, one which brings utterances by a user together and others, which separates the utterances of different users. Out of the two, Contrast loss is more rigorous.
+Both these loss functions had two components, one which brings utterances by a
+user together and others, which separates the utterances of different users. Out
+of the two, Contrast loss is more rigorous.
 </p>
 
       </div>

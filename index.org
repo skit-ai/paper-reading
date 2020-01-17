@@ -62,6 +62,23 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 10 January, 2020
+** Parsing English with a link grammar
+:PROPERTIES:
+:CUSTOM_ID: sleator1995parsing
+:YEAR:     1995
+:AUTHOR:   Sleator, Daniel DK and Temperley, Davy
+:END:
+
+We came to here via opencog's [[https://github.com/opencog/learn][learn]] project. This is a nice perspective setup
+also if you are missing out on formal introduction of grammars and all. Overall
+a link grammar defines connectors on left and right side of a word with
+disjunctions and conjunctions incorporated which then /link/ together to form a
+sentence, under certain constraints.
+
+This specific paper shows the formulation and creates a parser for English,
+covering many (not all) linguistics phenomena.
+
 * 20 December, 2019
 ** Generalized end-to-end loss for speaker verification
 :PROPERTIES:
@@ -70,10 +87,17 @@ missing links/notes, check out the (private) wiki.
 :AUTHOR:   Wan, Li and Wang, Quan and Papir, Alan and Moreno, Ignacio Lopez
 :END:
 
-This paper is development over their previous research work, Tuple-based end to end(TE2E) loss, for speaker identification. They try to generalize the concept of the cosine similarity being used in TE2E by creating similarity matrics for utterances by a user. They have suggested two losses in the paper:
+This paper is development over their previous research work, Tuple-based end to
+end(TE2E) loss, for speaker identification. They try to generalize the concept
+of the cosine similarity being used in TE2E by creating similarity matrics for
+utterances by a user. They have suggested two losses in the paper:
+
 1) Softmax loss
 2) Contrast loss
-Both these loss functions had two components, one which brings utterances by a user together and others, which separates the utterances of different users. Out of the two, Contrast loss is more rigorous.
+
+Both these loss functions had two components, one which brings utterances by a
+user together and others, which separates the utterances of different users. Out
+of the two, Contrast loss is more rigorous.
 
 * 13 December, 2019
 ** Towards end-to-end spoken language understanding
