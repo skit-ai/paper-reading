@@ -3,8 +3,58 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2019-12-14T21:43:37+0530</updated>
+  <updated>2020-01-17T15:09:33+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>20 December, 2019</title>
+    <updated>2019-12-20T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: wan2018generalized
+:YEAR:     2018
+:AUTHOR:   Wan, Li and Wang, Quan and Papir, Alan and Moreno, Ignacio Lopez
+</p>
+
+<p>
+This paper is development over their previous research work, Tuple-based end to end(TE2E) loss, for speaker identification. They try to generalize the concept of the cosine similarity being used in TE2E by creating similarity matrics for utterances by a user. They have suggested two losses in the paper:
+</p>
+<ol class="org-ol">
+<li>Softmax loss</li>
+<li>Contrast loss</li>
+</ol>
+<p>
+Both these loss functions had two components, one which brings utterances by a user together and others, which separates the utterances of different users. Out of the two, Contrast loss is more rigorous.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Generalized end-to-end loss for speaker verification</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: wan2018generalized
+:YEAR:     2018
+:AUTHOR:   Wan, Li and Wang, Quan and Papir, Alan and Moreno, Ignacio Lopez
+</p>
+
+<p>
+This paper is development over their previous research work, Tuple-based end to end(TE2E) loss, for speaker identification. They try to generalize the concept of the cosine similarity being used in TE2E by creating similarity matrics for utterances by a user. They have suggested two losses in the paper:
+</p>
+<ol class="org-ol">
+<li>Softmax loss</li>
+<li>Contrast loss</li>
+</ol>
+<p>
+Both these loss functions had two components, one which brings utterances by a user together and others, which separates the utterances of different users. Out of the two, Contrast loss is more rigorous.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>13 December, 2019</title>
     <updated>2019-12-13T00:00:00+0530</updated>
