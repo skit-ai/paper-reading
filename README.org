@@ -1,7 +1,8 @@
 #+TITLE: paper-reading
 
 List of papers we cover during our weekly paper reading session. Accessible
-[[https://backyard.vernacular.ai/paper-reading/][here]].
+[[https://backyard.vernacular.ai/paper-reading/][here]]. We also have an invite-only internal zotero group where we keep a pool of
+papers.
 
 ** Setting up
 For building you will need [[https://www.gnu.org/software/emacs/][Emacs]] and [[https://github.com/cask/cask][cask]]. Once installed, do =cask install= in
@@ -14,4 +15,5 @@ it to generate atom feeds) and do a =make=. Generated files are kept in =./docs/
 Only the main =make= step is sufficient for the github url
 (https://vernacular-ai.github.io/paper-reading) to work. For deploying to s3
 (served at the https://backyard.vernacular.ai/paper-reading url), do =make
-deploy=. Notice that you need to be logged in =aws= cli for this.
+deploy=. Notice that you need to be logged in =aws= cli for this. You might also
+have to do cache invalidation in cloudfront to make the updates go out quickly.
