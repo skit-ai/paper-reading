@@ -64,7 +64,6 @@ missing links/notes, check out the (private) wiki.
 
 * 17 January, 2020
 ** Learning language from a large (unannotated) corpus
-CLOSED: [2020-01-19 Sun 13:16]
 :PROPERTIES:
 :CUSTOM_ID: vepstas2014learning
 :YEAR:     2014

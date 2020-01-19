@@ -3,7 +3,7 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-01-19T13:27:20+0530</updated>
+  <updated>2020-01-19T13:29:25+0530</updated>
   <author><name>Vernacular.ai</name></author>
   <entry>
     <title>17 January, 2020</title>
@@ -11,9 +11,6 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2020-01-19 Sun 13:16]</span></span>
-</p>
-<p>
 :CUSTOM<sub>ID</sub>: vepstas2014learning
 :YEAR:     2014
 :AUTHOR:   Vepstas, Linas and Goertzel, Ben
@@ -43,9 +40,6 @@ syntax to reasoning via semantics.
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2020-01-19 Sun 13:16]</span></span>
-</p>
-<p>
 :CUSTOM<sub>ID</sub>: vepstas2014learning
 :YEAR:     2014
 :AUTHOR:   Vepstas, Linas and Goertzel, Ben
