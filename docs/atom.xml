@@ -3,8 +3,72 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-01-17T15:13:21+0530</updated>
+  <updated>2020-01-19T13:27:20+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>17 January, 2020</title>
+    <updated>2020-01-17T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2020-01-19 Sun 13:16]</span></span>
+</p>
+<p>
+:CUSTOM<sub>ID</sub>: vepstas2014learning
+:YEAR:     2014
+:AUTHOR:   Vepstas, Linas and Goertzel, Ben
+</p>
+
+<p>
+Introductory paper on the general approach used in <a href="https://github.com/opencog/learn">learn</a>. The idea is to learn
+various generalizable syntactic and semantic relations from unannotated corpus.
+The relations are expressed using graphs sitting on top of link grammar and
+meaning text theory (MTT). While the general approach is sketched out decently
+enough, there are details to filled in various steps and experiments to run (as
+of the writing in 2014).
+</p>
+
+<p>
+On another note, the document is a nice read because of the many interesting
+ways of looking at various ideas in understanding languages and going from
+syntax to reasoning via semantics.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Learning language from a large (unannotated) corpus</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2020-01-19 Sun 13:16]</span></span>
+</p>
+<p>
+:CUSTOM<sub>ID</sub>: vepstas2014learning
+:YEAR:     2014
+:AUTHOR:   Vepstas, Linas and Goertzel, Ben
+</p>
+
+<p>
+Introductory paper on the general approach used in <a href="https://github.com/opencog/learn">learn</a>. The idea is to learn
+various generalizable syntactic and semantic relations from unannotated corpus.
+The relations are expressed using graphs sitting on top of link grammar and
+meaning text theory (MTT). While the general approach is sketched out decently
+enough, there are details to filled in various steps and experiments to run (as
+of the writing in 2014).
+</p>
+
+<p>
+On another note, the document is a nice read because of the many interesting
+ways of looking at various ideas in understanding languages and going from
+syntax to reasoning via semantics.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>10 January, 2020</title>
     <updated>2020-01-10T00:00:00+0530</updated>
