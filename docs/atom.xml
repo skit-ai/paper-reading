@@ -3,7 +3,7 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-01-19T13:29:25+0530</updated>
+  <updated>2020-01-26T23:50:42+0530</updated>
   <author><name>Vernacular.ai</name></author>
   <entry>
     <title>17 January, 2020</title>
@@ -572,6 +572,16 @@ of slicing functions.
 
 <li>Hundman, K., Constantinou, V., Laporte, C., Colwell, I., &amp; Soderstrom, T., <a href="https://arxiv.org/abs/1802.04431">Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding</a>, In , Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&amp; Data Mining (pp. 387–395) (2018). : . (cite:hundman2018detecting)</li>
 </ul>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141179193-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-141179193-2');
+</script>
 
       </div>
     </content>

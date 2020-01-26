@@ -289,3 +289,15 @@ of slicing functions.
 - Ghahramani, Z., [[https://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf][Unsupervised learning]], In , Summer School on Machine Learning (pp. 72–112) (2003). : . (cite:ghahramani2003unsupervised)
 
 - Hundman, K., Constantinou, V., Laporte, C., Colwell, I., & Soderstrom, T., [[https://arxiv.org/abs/1802.04431][Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding]], In , Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (pp. 387–395) (2018). : . (cite:hundman2018detecting)
+
+#+begin_export html
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141179193-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-141179193-2');
+    </script>
+#+end_export
