@@ -62,6 +62,61 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 31 January, 2020
+** Modeling Sequences with Quantum States: A Look Under the Hood
+:PROPERTIES:
+:CUSTOM_ID: bradley2019modeling
+:YEAR:     2019
+:AUTHOR:   Bradley, Tai-Danae and Stoudenmire, E Miles and Terilla, John
+:END:
+
+This paper explores a new direction in language modelling. The idea is still to
+learn the underlying distribution of sequences of characters, but here they do
+it by learning the quantum analogue of the classical probability distribution
+function. Unlike the classical case, marginal distributions there carry enough
+information to re-construct the joint distribution. This is the central idea of
+the paper, and is explained in the first half. The second half of the paper
+explains the theory and implementation of the training algorithm, with a simple
+example. Future work would be to apply this algorithm to a more complicated
+example, and even adapt it to variable length sequences.
+
+** Deep voice 2: Multi-speaker neural text-to-speech
+:PROPERTIES:
+:CUSTOM_ID: gibiansky2017deep
+:YEAR:     2017
+:AUTHOR:   Gibiansky, Andrew and Arik, Sercan and Diamos, Gregory and Miller, John and Peng, Kainan and Ping, Wei and Raiman, Jonathan and Zhou, Yanqi
+:END:
+
+This paper suggests improvements to [[https://arxiv.org/abs/1702.07825][DeepVoice]] and [[https://arxiv.org/abs/1703.10135][Tacotron]], and also proposes a
+way to add trainable speaker embeddings. The speaker embeddings are initialized
+randomly and trained jointly through backpropagation. The paper lists some
+patterns that lead to better performance
+
+1. Transforming speaker embeddings to appropriate dimension and form for every
+   place it is added to the model. The transformed speaker embeddings are called
+   site-specific speaker embeddings
+2. Initializing recurrent layer hidden states with the site-specific speaker
+   embeddings.
+3. Concatenating the site-specific speaker embedding to input at every timestep
+   of the recurrent layer
+4. Multiplying layer activations element-wise to the site-specific speaker
+   embeddings
+
+** A credit assignment compiler for joint prediction
+:PROPERTIES:
+:CUSTOM_ID: chang2016credit
+:YEAR:     2016
+:AUTHOR:   Chang, Kai-Wei and He, He and Ross, Stephane and Daume III, Hal and Langford, John
+:END:
+
+This talks about an API for framing L2S style search problems in style of an
+imperative program which allows for two optimizations:
+
+1. memoization
+2. forced path collapse, getting losses without going to the last state
+
+Main reduction that happens here is to a cost-sensitive classification problem.
+
 * 17 January, 2020
 ** Learning language from a large (unannotated) corpus
 :PROPERTIES:

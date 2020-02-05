@@ -3,8 +3,121 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-01-26T23:50:42+0530</updated>
+  <updated>2020-02-05T19:08:20+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>31 January, 2020</title>
+    <updated>2020-01-31T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: bradley2019modeling
+:YEAR:     2019
+:AUTHOR:   Bradley, Tai-Danae and Stoudenmire, E Miles and Terilla, John
+</p>
+
+<p>
+This paper explores a new direction in language modelling. The idea is still to
+learn the underlying distribution of sequences of characters, but here they do
+it by learning the quantum analogue of the classical probability distribution
+function. Unlike the classical case, marginal distributions there carry enough
+information to re-construct the joint distribution. This is the central idea of
+the paper, and is explained in the first half. The second half of the paper
+explains the theory and implementation of the training algorithm, with a simple
+example. Future work would be to apply this algorithm to a more complicated
+example, and even adapt it to variable length sequences.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Modeling Sequences with Quantum States: A Look Under the Hood</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: bradley2019modeling
+:YEAR:     2019
+:AUTHOR:   Bradley, Tai-Danae and Stoudenmire, E Miles and Terilla, John
+</p>
+
+<p>
+This paper explores a new direction in language modelling. The idea is still to
+learn the underlying distribution of sequences of characters, but here they do
+it by learning the quantum analogue of the classical probability distribution
+function. Unlike the classical case, marginal distributions there carry enough
+information to re-construct the joint distribution. This is the central idea of
+the paper, and is explained in the first half. The second half of the paper
+explains the theory and implementation of the training algorithm, with a simple
+example. Future work would be to apply this algorithm to a more complicated
+example, and even adapt it to variable length sequences.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Deep voice 2: Multi-speaker neural text-to-speech</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: gibiansky2017deep
+:YEAR:     2017
+:AUTHOR:   Gibiansky, Andrew and Arik, Sercan and Diamos, Gregory and Miller, John and Peng, Kainan and Ping, Wei and Raiman, Jonathan and Zhou, Yanqi
+</p>
+
+<p>
+This paper suggests improvements to <a href="https://arxiv.org/abs/1702.07825">DeepVoice</a> and <a href="https://arxiv.org/abs/1703.10135">Tacotron</a>, and also proposes a
+way to add trainable speaker embeddings. The speaker embeddings are initialized
+randomly and trained jointly through backpropagation. The paper lists some
+patterns that lead to better performance
+</p>
+
+<ol class="org-ol">
+<li>Transforming speaker embeddings to appropriate dimension and form for every
+place it is added to the model. The transformed speaker embeddings are called
+site-specific speaker embeddings</li>
+<li>Initializing recurrent layer hidden states with the site-specific speaker
+embeddings.</li>
+<li>Concatenating the site-specific speaker embedding to input at every timestep
+of the recurrent layer</li>
+<li>Multiplying layer activations element-wise to the site-specific speaker
+embeddings</li>
+</ol>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>A credit assignment compiler for joint prediction</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: chang2016credit
+:YEAR:     2016
+:AUTHOR:   Chang, Kai-Wei and He, He and Ross, Stephane and Daume III, Hal and Langford, John
+</p>
+
+<p>
+This talks about an API for framing L2S style search problems in style of an
+imperative program which allows for two optimizations:
+</p>
+
+<ol class="org-ol">
+<li>memoization</li>
+<li>forced path collapse, getting losses without going to the last state</li>
+</ol>
+
+<p>
+Main reduction that happens here is to a cost-sensitive classification problem.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>17 January, 2020</title>
     <updated>2020-01-17T00:00:00+0530</updated>

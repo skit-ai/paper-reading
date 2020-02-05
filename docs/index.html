@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-01-26 Sun 23:50 -->
+<!-- 2020-02-05 Wed 19:08 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>paper-reading | vernacular.ai</title>
@@ -303,12 +303,95 @@ List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 </p>
 
-<div id="outline-container-orgbdcb1d1" class="outline-2">
-<h2 id="orgbdcb1d1">17 January, 2020</h2>
-<div class="outline-text-2" id="text-orgbdcb1d1">
+<div id="outline-container-org93b3e8c" class="outline-2">
+<h2 id="org93b3e8c">31 January, 2020</h2>
+<div class="outline-text-2" id="text-org93b3e8c">
 </div>
-<div id="outline-container-orga6b41f8" class="outline-3">
-<h3 id="vepstas2014learning"><a id="orga6b41f8"></a>Learning language from a large (unannotated) corpus</h3>
+<div id="outline-container-org09efbfe" class="outline-3">
+<h3 id="bradley2019modeling"><a id="org09efbfe"></a>Modeling Sequences with Quantum States: A Look Under the Hood</h3>
+<div class="outline-text-3" id="text-bradley2019modeling">
+<pre class="example">
+CUSTOM_ID: bradley2019modeling
+YEAR: 2019
+AUTHOR: Bradley, Tai-Danae and Stoudenmire, E Miles and Terilla, John
+</pre>
+
+<p>
+This paper explores a new direction in language modelling. The idea is still to
+learn the underlying distribution of sequences of characters, but here they do
+it by learning the quantum analogue of the classical probability distribution
+function. Unlike the classical case, marginal distributions there carry enough
+information to re-construct the joint distribution. This is the central idea of
+the paper, and is explained in the first half. The second half of the paper
+explains the theory and implementation of the training algorithm, with a simple
+example. Future work would be to apply this algorithm to a more complicated
+example, and even adapt it to variable length sequences.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org94cf8e7" class="outline-3">
+<h3 id="gibiansky2017deep"><a id="org94cf8e7"></a>Deep voice 2: Multi-speaker neural text-to-speech</h3>
+<div class="outline-text-3" id="text-gibiansky2017deep">
+<pre class="example">
+CUSTOM_ID: gibiansky2017deep
+YEAR: 2017
+AUTHOR: Gibiansky, Andrew and Arik, Sercan and Diamos, Gregory and Miller, John and Peng, Kainan and Ping, Wei and Raiman, Jonathan and Zhou, Yanqi
+</pre>
+
+<p>
+This paper suggests improvements to <a href="https://arxiv.org/abs/1702.07825">DeepVoice</a> and <a href="https://arxiv.org/abs/1703.10135">Tacotron</a>, and also proposes a
+way to add trainable speaker embeddings. The speaker embeddings are initialized
+randomly and trained jointly through backpropagation. The paper lists some
+patterns that lead to better performance
+</p>
+
+<ol class="org-ol">
+<li>Transforming speaker embeddings to appropriate dimension and form for every
+place it is added to the model. The transformed speaker embeddings are called
+site-specific speaker embeddings</li>
+<li>Initializing recurrent layer hidden states with the site-specific speaker
+embeddings.</li>
+<li>Concatenating the site-specific speaker embedding to input at every timestep
+of the recurrent layer</li>
+<li>Multiplying layer activations element-wise to the site-specific speaker
+embeddings</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgfc17f64" class="outline-3">
+<h3 id="chang2016credit"><a id="orgfc17f64"></a>A credit assignment compiler for joint prediction</h3>
+<div class="outline-text-3" id="text-chang2016credit">
+<pre class="example">
+CUSTOM_ID: chang2016credit
+YEAR: 2016
+AUTHOR: Chang, Kai-Wei and He, He and Ross, Stephane and Daume III, Hal and Langford, John
+</pre>
+
+<p>
+This talks about an API for framing L2S style search problems in style of an
+imperative program which allows for two optimizations:
+</p>
+
+<ol class="org-ol">
+<li>memoization</li>
+<li>forced path collapse, getting losses without going to the last state</li>
+</ol>
+
+<p>
+Main reduction that happens here is to a cost-sensitive classification problem.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org55b7e5d" class="outline-2">
+<h2 id="org55b7e5d">17 January, 2020</h2>
+<div class="outline-text-2" id="text-org55b7e5d">
+</div>
+<div id="outline-container-orgc91f2cd" class="outline-3">
+<h3 id="vepstas2014learning"><a id="orgc91f2cd"></a>Learning language from a large (unannotated) corpus</h3>
 <div class="outline-text-3" id="text-vepstas2014learning">
 <pre class="example">
 CUSTOM_ID: vepstas2014learning
@@ -334,12 +417,12 @@ syntax to reasoning via semantics.
 </div>
 </div>
 
-<div id="outline-container-org8d8b24d" class="outline-2">
-<h2 id="org8d8b24d">10 January, 2020</h2>
-<div class="outline-text-2" id="text-org8d8b24d">
+<div id="outline-container-org5f9c514" class="outline-2">
+<h2 id="org5f9c514">10 January, 2020</h2>
+<div class="outline-text-2" id="text-org5f9c514">
 </div>
-<div id="outline-container-orga413a67" class="outline-3">
-<h3 id="sleator1995parsing"><a id="orga413a67"></a>Parsing English with a link grammar</h3>
+<div id="outline-container-orge7166b6" class="outline-3">
+<h3 id="sleator1995parsing"><a id="orge7166b6"></a>Parsing English with a link grammar</h3>
 <div class="outline-text-3" id="text-sleator1995parsing">
 <pre class="example">
 CUSTOM_ID: sleator1995parsing
@@ -363,12 +446,12 @@ covering many (not all) linguistics phenomena.
 </div>
 </div>
 
-<div id="outline-container-org8a122f0" class="outline-2">
-<h2 id="org8a122f0">20 December, 2019</h2>
-<div class="outline-text-2" id="text-org8a122f0">
+<div id="outline-container-org2c50bea" class="outline-2">
+<h2 id="org2c50bea">20 December, 2019</h2>
+<div class="outline-text-2" id="text-org2c50bea">
 </div>
-<div id="outline-container-org75e3472" class="outline-3">
-<h3 id="wan2018generalized"><a id="org75e3472"></a>Generalized end-to-end loss for speaker verification</h3>
+<div id="outline-container-orgb7c6df2" class="outline-3">
+<h3 id="wan2018generalized"><a id="orgb7c6df2"></a>Generalized end-to-end loss for speaker verification</h3>
 <div class="outline-text-3" id="text-wan2018generalized">
 <pre class="example">
 CUSTOM_ID: wan2018generalized
@@ -397,12 +480,12 @@ of the two, Contrast loss is more rigorous.
 </div>
 </div>
 
-<div id="outline-container-org22dc977" class="outline-2">
-<h2 id="org22dc977">13 December, 2019</h2>
-<div class="outline-text-2" id="text-org22dc977">
+<div id="outline-container-org041cf71" class="outline-2">
+<h2 id="org041cf71">13 December, 2019</h2>
+<div class="outline-text-2" id="text-org041cf71">
 </div>
-<div id="outline-container-orgab17cd9" class="outline-3">
-<h3 id="serdyuk2018towards"><a id="orgab17cd9"></a>Towards end-to-end spoken language understanding</h3>
+<div id="outline-container-orgbc12f88" class="outline-3">
+<h3 id="serdyuk2018towards"><a id="orgbc12f88"></a>Towards end-to-end spoken language understanding</h3>
 <div class="outline-text-3" id="text-serdyuk2018towards">
 <pre class="example">
 CUSTOM_ID: serdyuk2018towards
@@ -423,8 +506,8 @@ reduce the size of the vector and to tackle the problem of vanishing gradient.
 </div>
 </div>
 
-<div id="outline-container-orgad4cf37" class="outline-3">
-<h3 id="grathwohl2019classifier"><a id="orgad4cf37"></a>Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One</h3>
+<div id="outline-container-org43f0cee" class="outline-3">
+<h3 id="grathwohl2019classifier"><a id="org43f0cee"></a>Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One</h3>
 <div class="outline-text-3" id="text-grathwohl2019classifier">
 <pre class="example">
 CUSTOM_ID: grathwohl2019classifier
@@ -449,12 +532,12 @@ generally stable, the results are neat.
 </div>
 </div>
 
-<div id="outline-container-orge519f92" class="outline-2">
-<h2 id="orge519f92">29 November, 2019</h2>
-<div class="outline-text-2" id="text-orge519f92">
+<div id="outline-container-org47c1d37" class="outline-2">
+<h2 id="org47c1d37">29 November, 2019</h2>
+<div class="outline-text-2" id="text-org47c1d37">
 </div>
-<div id="outline-container-orgb082f9e" class="outline-3">
-<h3 id="re2019overton"><a id="orgb082f9e"></a>Overton: A Data System for Monitoring and Improving Machine-Learned Products</h3>
+<div id="outline-container-org53bfc99" class="outline-3">
+<h3 id="re2019overton"><a id="org53bfc99"></a>Overton: A Data System for Monitoring and Improving Machine-Learned Products</h3>
 <div class="outline-text-3" id="text-re2019overton">
 <pre class="example">
 CUSTOM_ID: re2019overton
@@ -487,8 +570,8 @@ development abstractions in production.
 </div>
 </div>
 
-<div id="outline-container-org90f74cd" class="outline-3">
-<h3 id="chen2019slice"><a id="org90f74cd"></a>Slice-based learning: A programming model for residual learning in critical data slices</h3>
+<div id="outline-container-org39bc1c6" class="outline-3">
+<h3 id="chen2019slice"><a id="org39bc1c6"></a>Slice-based learning: A programming model for residual learning in critical data slices</h3>
 <div class="outline-text-3" id="text-chen2019slice">
 <pre class="example">
 CUSTOM_ID: chen2019slice
@@ -516,9 +599,9 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-org55318cb" class="outline-2">
-<h2 id="org55318cb">21 September, 2019</h2>
-<div class="outline-text-2" id="text-org55318cb">
+<div id="outline-container-orgc25ebbd" class="outline-2">
+<h2 id="orgc25ebbd">21 September, 2019</h2>
+<div class="outline-text-2" id="text-orgc25ebbd">
 <ul class="org-ul">
 <li>Moody, C. E., <a href="https://arxiv.org/abs/1605.02019">Mixing dirichlet topic models and word embeddings to make lda2vec</a>, arXiv preprint arXiv:1605.02019, (),  (2016). (cite:moody2016mixing)</li>
 
@@ -529,9 +612,9 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-org5f98488" class="outline-2">
-<h2 id="org5f98488">3 August, 2019</h2>
-<div class="outline-text-2" id="text-org5f98488">
+<div id="outline-container-org91482dc" class="outline-2">
+<h2 id="org91482dc">3 August, 2019</h2>
+<div class="outline-text-2" id="text-org91482dc">
 <ul class="org-ul">
 <li>Kim, S., Eriksson, T., Kang, H., &amp; Hee Youn, D., <a href="https://www.researchgate.net/publication/4087401_A_pitch_synchronous_feature_extraction_method_for_speaker_recognition/link/00b7d5364b1a66dafc000000/download">A pitch synchronous feature extraction method for speaker recognition</a>, In ,  (pp. ) (2004). : . (cite:PSMFCC)</li>
 
@@ -546,36 +629,36 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-orgf77bb9f" class="outline-2">
-<h2 id="orgf77bb9f">27 July, 2019</h2>
-<div class="outline-text-2" id="text-orgf77bb9f">
+<div id="outline-container-org4891452" class="outline-2">
+<h2 id="org4891452">27 July, 2019</h2>
+<div class="outline-text-2" id="text-org4891452">
 <ul class="org-ul">
 <li>Belkin, M., Hsu, D., Ma, S., &amp; Mandal, S., <a href="https://arxiv.org/pdf/1812.11118.pdf">Reconciling modern machine learning and the bias-variance trade-off</a>, arXiv preprint arXiv:1812.11118, (),  (2018). (cite:belkin2018reconciling)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org5476335" class="outline-2">
-<h2 id="org5476335">20 July, 2019</h2>
-<div class="outline-text-2" id="text-org5476335">
+<div id="outline-container-orgfff1d20" class="outline-2">
+<h2 id="orgfff1d20">20 July, 2019</h2>
+<div class="outline-text-2" id="text-orgfff1d20">
 <ul class="org-ul">
 <li>Locatello, F., Bauer, S., Lucic, M., Gelly, S., Sch\"olkopf, Bernhard, &amp; Bachem, O., <a href="https://arxiv.org/pdf/1811.12359.pdf">Challenging common assumptions in the unsupervised learning of disentangled representations</a>, arXiv preprint arXiv:1811.12359, (),  (2018). (cite:locatello2018challenging)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgaee7c3e" class="outline-2">
-<h2 id="orgaee7c3e">13 July, 2019</h2>
-<div class="outline-text-2" id="text-orgaee7c3e">
+<div id="outline-container-org5d86148" class="outline-2">
+<h2 id="org5d86148">13 July, 2019</h2>
+<div class="outline-text-2" id="text-org5d86148">
 <ul class="org-ul">
 <li>Advani, M. S., &amp; Saxe, A. M., <a href="https://arxiv.org/abs/1710.03667">High-dimensional dynamics of generalization error in neural networks</a>, arXiv preprint arXiv:1710.03667, (),  (2017). (cite:advani2017high)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org9289583" class="outline-2">
-<h2 id="org9289583">6 July, 2019</h2>
-<div class="outline-text-2" id="text-org9289583">
+<div id="outline-container-org52704b9" class="outline-2">
+<h2 id="org52704b9">6 July, 2019</h2>
+<div class="outline-text-2" id="text-org52704b9">
 <ul class="org-ul">
 <li>Friedman, J., Hastie, T., &amp; Tibshirani, R., <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a>, In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)</li>
 
@@ -588,9 +671,9 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-orgca84023" class="outline-2">
-<h2 id="orgca84023">1 July, 2019</h2>
-<div class="outline-text-2" id="text-orgca84023">
+<div id="outline-container-orgbb174bf" class="outline-2">
+<h2 id="orgbb174bf">1 July, 2019</h2>
+<div class="outline-text-2" id="text-orgbb174bf">
 <ul class="org-ul">
 <li>Friedman, J., Hastie, T., &amp; Tibshirani, R., <a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The elements of statistical learning</a>, In  (Eds.),  (pp. 51–61) (2001). : Springer series in statistics New York. (cite:friedman2001elements)</li>
 
@@ -605,9 +688,9 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-orga3ce4ca" class="outline-2">
-<h2 id="orga3ce4ca">25 June, 2019</h2>
-<div class="outline-text-2" id="text-orga3ce4ca">
+<div id="outline-container-org4f463d7" class="outline-2">
+<h2 id="org4f463d7">25 June, 2019</h2>
+<div class="outline-text-2" id="text-org4f463d7">
 <ul class="org-ul">
 <li>Reynolds, D. A., Quatieri, T. F., &amp; Dunn, R. B., <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&amp;rep=rep1&amp;type=pdf">Speaker verification using adapted gaussian mixture models</a>, Digital signal processing, 10(1-3), 19–41 (2000). (cite:reynolds2000speaker)</li>
 
@@ -622,9 +705,9 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-orgaa852d1" class="outline-2">
-<h2 id="orgaa852d1">15 June, 2019</h2>
-<div class="outline-text-2" id="text-orgaa852d1">
+<div id="outline-container-orga6b8924" class="outline-2">
+<h2 id="orga6b8924">15 June, 2019</h2>
+<div class="outline-text-2" id="text-orga6b8924">
 <ul class="org-ul">
 <li>Mohri, M., Pereira, F., &amp; Riley, M., <a href="http://www.sciencedirect.com/science/article/pii/S0885230801901846">Weighted finite-state transducers in speech recognition</a>, Computer Speech &amp; Language, 16(1), 69–88 (2002). (cite:MOHRI200269)</li>
 
@@ -637,9 +720,9 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-org111966f" class="outline-2">
-<h2 id="org111966f">8 June, 2019</h2>
-<div class="outline-text-2" id="text-org111966f">
+<div id="outline-container-orgafb18f4" class="outline-2">
+<h2 id="orgafb18f4">8 June, 2019</h2>
+<div class="outline-text-2" id="text-orgafb18f4">
 <ul class="org-ul">
 <li>Dehak, N., Kenny, P. J., Dehak, R\'eda, Dumouchel, P., &amp; Ouellet, P., <a href="https://ieeexplore.ieee.org/document/5545402">Front-end factor analysis for speaker verification</a>, IEEE Transactions on Audio, Speech, and Language Processing, 19(4), 788–798 (2010). (cite:dehak2010front)</li>
 
@@ -652,18 +735,18 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-orga6a1708" class="outline-2">
-<h2 id="orga6a1708">1 June, 2019</h2>
-<div class="outline-text-2" id="text-orga6a1708">
+<div id="outline-container-org63779cf" class="outline-2">
+<h2 id="org63779cf">1 June, 2019</h2>
+<div class="outline-text-2" id="text-org63779cf">
 <ul class="org-ul">
 <li>Russo, D. J., Van Roy, B., Kazerouni, A., Osband, I., Wen, Z., &amp; others, , <a href="https://arxiv.org/abs/1707.02038">A tutorial on thompson sampling</a>, Foundations and Trends{\textregistered} in Machine Learning, 11(1), 1–96 (2018). (cite:russo2018tutorial)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgccc1ed7" class="outline-2">
-<h2 id="orgccc1ed7">18 May, 2019</h2>
-<div class="outline-text-2" id="text-orgccc1ed7">
+<div id="outline-container-orga08fb6d" class="outline-2">
+<h2 id="orga08fb6d">18 May, 2019</h2>
+<div class="outline-text-2" id="text-orga08fb6d">
 <ul class="org-ul">
 <li>Gravano, A., Jansche, M., &amp; Bacchiani, M., <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34562.pdf">Restoring punctuation and capitalization in transcribed speech</a>, In , 2009 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 4741–4744) (2009). : . (cite:gravano2009restoring)</li>
 
@@ -674,9 +757,9 @@ of slicing functions.
 </div>
 </div>
 
-<div id="outline-container-org31c05ce" class="outline-2">
-<h2 id="org31c05ce">13 May, 2019</h2>
-<div class="outline-text-2" id="text-org31c05ce">
+<div id="outline-container-org5829403" class="outline-2">
+<h2 id="org5829403">13 May, 2019</h2>
+<div class="outline-text-2" id="text-org5829403">
 <ul class="org-ul">
 <li>Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., Chaudhary, V., …, <a href="https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems">Hidden technical debt in machine learning systems</a>, In , Advances in neural information processing systems (pp. 2503–2511) (2015). : . (cite:sculley2015hidden)</li>
 
@@ -700,7 +783,7 @@ of slicing functions.
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2020-01-26 Sun 23:50</p>
+<p class="date">Created: 2020-02-05 Wed 19:08</p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
