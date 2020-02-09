@@ -1,0 +1,7 @@
+#+TITLE: Library
+
+Here are a few BibTeX files organized by domains. This is supposed to be used as
+a pool of candidates to pick papers from.
+
+Since we have just now started keeping items here, the list might not be
+complete as far as what we /have covered/. Check out the main website for that.
