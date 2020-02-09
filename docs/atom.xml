@@ -3,8 +3,74 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-02-05T19:08:20+0530</updated>
+  <updated>2020-02-09T21:12:40+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>7 February, 2020</title>
+    <updated>2020-02-07T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: hancock2019learning
+:YEAR:     2019
+:AUTHOR:   Hancock, Braden and Bordes, Antoine and Mazare, Pierre-Emmanuel and Weston, Jason
+</p>
+
+<p>
+This is an approach to collect supervision signal from deployment data. There
+are three tasks for the system (which is a chat bot doing ranking on candidate
+responses):
+</p>
+
+<ol class="org-ol">
+<li>Dialogue. The main task. Given the turns till now, the bot ranks which
+response to utter.</li>
+<li>Satisfaction. Given turns till now, last being user utterance, predict
+whether the user is satisfied.</li>
+<li>Feedback. After asking for feedback from the user, predict user's response
+(feedback) based on the turns till now.</li>
+</ol>
+
+<p>
+The models have shared weights, mostly among task 1 and 3.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Learning from Dialogue after Deployment: Feed Yourself, Chatbot!</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: hancock2019learning
+:YEAR:     2019
+:AUTHOR:   Hancock, Braden and Bordes, Antoine and Mazare, Pierre-Emmanuel and Weston, Jason
+</p>
+
+<p>
+This is an approach to collect supervision signal from deployment data. There
+are three tasks for the system (which is a chat bot doing ranking on candidate
+responses):
+</p>
+
+<ol class="org-ol">
+<li>Dialogue. The main task. Given the turns till now, the bot ranks which
+response to utter.</li>
+<li>Satisfaction. Given turns till now, last being user utterance, predict
+whether the user is satisfied.</li>
+<li>Feedback. After asking for feedback from the user, predict user's response
+(feedback) based on the turns till now.</li>
+</ol>
+
+<p>
+The models have shared weights, mostly among task 1 and 3.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>31 January, 2020</title>
     <updated>2020-01-31T00:00:00+0530</updated>

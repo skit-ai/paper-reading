@@ -62,6 +62,27 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 7 February, 2020
+** Learning from Dialogue after Deployment: Feed Yourself, Chatbot!
+:PROPERTIES:
+:CUSTOM_ID: hancock2019learning
+:YEAR:     2019
+:AUTHOR:   Hancock, Braden and Bordes, Antoine and Mazare, Pierre-Emmanuel and Weston, Jason
+:END:
+
+This is an approach to collect supervision signal from deployment data. There
+are three tasks for the system (which is a chat bot doing ranking on candidate
+responses):
+
+1. Dialogue. The main task. Given the turns till now, the bot ranks which
+   response to utter.
+2. Satisfaction. Given turns till now, last being user utterance, predict
+   whether the user is satisfied.
+3. Feedback. After asking for feedback from the user, predict user's response
+   (feedback) based on the turns till now.
+
+The models have shared weights, mostly among task 1 and 3.
+
 * 31 January, 2020
 ** Modeling Sequences with Quantum States: A Look Under the Hood
 :PROPERTIES:
