@@ -10,3 +10,131 @@
   year={2009},
   publisher={IEEE}
 }
+
+
+% papers on code-mixing and code-switching 
+
+@InProceedings{pratapa2018word,
+author = {Pratapa, Adithya and Choudhury, Monojit and Sitaram, Sunayana},
+title = {Word Embeddings for Code-Mixed Language Processing},
+organization = {ACL},
+booktitle = {Empirical Methods in Natural Language Processing (EMNLP)},
+year = {2018},
+month = {November},
+abstract = {We compare three existing bilingual word embedding approaches, and a novel approach of training skip-grams on synthetic code-mixed text generated through linguistic models of code-mixing, on two tasks - sentiment analysis and POS tagging for code-mixed text. Our results show that while CVM and CCA based embeddings perform as well as the proposed embedding technique on semantic and syntactic tasks respectively, the proposed approach provides the best performance for both tasks overall. Thus, this study demonstrates that existing bilingual embedding techniques are not ideal for code-mixed text processing and there is a need for learning multilingual word embedding from the code-mixed text.&nbsp;},
+publisher = {EMNLP 2018},
+url = {https://www.microsoft.com/en-us/research/publication/word-embeddings-for-code-mixed-language-processing/},
+}
+
+
+
+@InProceedings{srivastava2018homophone,
+author = {Srivastava, Brij Mohan Lal and Sitaram, Sunayana},
+title = {Homophone Identification and Merging for Code-switched Speech Recognition},
+booktitle = {Interspeech 2018},
+year = {2018},
+month = {September},
+abstract = {Code-switching or mixing is the use of multiple languages in a single utterance or conversation. Borrowing occurs when a word from a foreign language becomes part of the vocabulary of a language. In multilingual societies, switching/mixing and borrowing are not always clearly distinguishable. Due to this, transcription of code-switched and borrowed words is often not standardized, and leads to the presence of homophones in the training data. In this work, we automatically identify and disambiguate homophones in code-switched data to improve recognition of code-switched speech. We use a WX-based common pronunciation scheme for both languages being mixed and unify the homophones during training, which results in a lower word error rate for systems built using this data. We also extend this framework to propose a metric for code-switched speech recognition that takes into account homophones in both languages while calculating WER, which can help provide a more accurate picture of errors the ASR system makes on code-switched speech.},
+url = {https://www.microsoft.com/en-us/research/publication/homophone-identification-and-merging-for-code-switched-speech-recognition/},
+edition = {Interspeech 2018},
+}
+
+
+@InProceedings{sivasankaran2018phone,
+author = {Sivasankaran, Sunit and Srivastava, Brij Mohan Lal and Sitaram, Sunayana and Bali, Kalika and Choudhury, Monojit},
+title = {Phone Merging For Code-switched Speech Recognition},
+booktitle = {Workshop on Computational Approaches to Linguistic Code Switching, 2018},
+year = {2018},
+month = {July},
+abstract = {Speakers in multilingual communities often switch between or mix multiple languages in the same conversation. Automatic Speech Recognition (ASR) of codeswitched speech faces many challenges including the influence of phones of different languages on each other. This paper shows evidence that phone sharing between languages improves the Acoustic Model performance for Hindi-English code-switched speech. We compare baseline system built with separate phones for Hindi and English with systems where the phones were manually merged based on linguistic knowledge. Encouraged by the improved ASR performance after manually merging the phones, we further investigate multiple data-driven methods to identify phones to be merged across the languages. We show detailed analysis of automatic phone merging in this language pair and the impact it has on individual phone accuracies and WER. Though the best performance gain of 1.2% WER was observed with manually merged phones, we show experimentally that the manual phone merge is not optimal.},
+url = {https://www.microsoft.com/en-us/research/publication/phone-merging-code-switched-speech-recognition/},
+}
+
+
+% papers related to Reading Comprehension Systems 
+
+@inproceedings{rajpurkar-etal-2016-squad,
+    title = "{SQ}u{AD}: 100,000+ Questions for Machine Comprehension of Text",
+    author = "Rajpurkar, Pranav  and Zhang, Jian  and Lopyrev, Konstantin  and Liang, Percy",
+    booktitle = "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2016",
+    address = "Austin, Texas",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D16-1264",
+    doi = "10.18653/v1/D16-1264",
+    pages = "2383--2392",
+}
+
+
+@inproceedings{rajpurkar2018squadrun,
+  author = {P. Rajpurkar and R. Jia and P. Liang},
+  booktitle = {Association for Computational Linguistics (ACL)},
+  title = {Know What You Don't Know: Unanswerable Questions for {SQuAD}},
+  year = {2018},
+}
+
+
+% Adversarial NLP 
+
+@inproceedings{jia2017adversarial,
+  author = {R. Jia and P. Liang},
+  booktitle = {Empirical Methods in Natural Language Processing (EMNLP)},
+  title = {Adversarial Examples for Evaluating Reading Comprehension Systems},
+  year = {2017},
+}
+
+
+% papers related to bias in NLP systems/ identifying the bias in text
+
+@inproceedings{chang-etal-2019-bias,
+    title = "Bias and Fairness in Natural Language Processing",
+    author = "Chang, Kai-Wei  and Prabhakaran, Vinod  and Ordonez, Vicente",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP): Tutorial Abstracts",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    abstract = "Recent advances in data-driven machine learning techniques (e.g., deep neural networks) have revolutionized many natural language processing applications. These approaches automatically learn how to make decisions based on the statistics and diagnostic information from large amounts of training data. Despite the remarkable accuracy of machine learning in various applications, learning algorithms run the risk of relying on societal biases encoded in the training data to make predictions. This often occurs even when gender and ethnicity information is not explicitly provided to the system because learning algorithms are able to discover implicit associations between individuals and their demographic information based on other variables such as names, titles, home addresses, etc. Therefore, machine learning algorithms risk potentially encouraging unfair and discriminatory decision making and raise serious privacy concerns. Without properly quantifying and reducing the reliance on such correlations, broad adoption of these models might have the undesirable effect of magnifying harmful stereotypes or implicit biases that rely on sensitive demographic attributes.In this tutorial, we will review the history of bias and fairness studies in machine learning and language processing and present recent community effort in quantifying and mitigating bias in natural language processing models for a wide spectrum of tasks, including word embeddings, co-reference resolution, machine translation, and vision-and-language tasks. In particular, we will focus on the following topics:+ Definitions of fairness and bias.+ Data, algorithms, and models that propagate and even amplify social bias to NLP applications and metrics to quantify these biases.+ Algorithmic solutions; learning objective; design principles to prevent social bias in NLP systems and their potential drawbacks.The tutorial will bring researchers and practitioners to be aware of this issue, and encourage the research community to propose innovative solutions to promote fairness in NLP.",
+}
+
+
+@InProceedings{pmlr-v81-madaan18a,
+  title = 	 {Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies},
+  author = 	 {Nishtha Madaan and Sameep Mehta and Taneea Agrawaal and Vrinda Malhotra and Aditi Aggarwal and Yatin Gupta and Mayank Saxena},
+  booktitle = 	 {Proceedings of the 1st Conference on Fairness, Accountability and Transparency},
+  pages = 	 {92--105},
+  year = 	 {2018},
+  editor = 	 {Sorelle A. Friedler and Christo Wilson},
+  volume = 	 {81},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {New York, NY, USA},
+  month = 	 {23--24 Feb},
+  publisher = 	 {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v81/madaan18a/madaan18a.pdf},
+  url = 	 {http://proceedings.mlr.press/v81/madaan18a.html},
+  abstract = 	 {The presence of gender stereotypes in many aspects of society is a well-known phenomenon. In this paper, we focus on studying such stereotypes and bias in Hindi movie industry (\it Bollywood) and propose an algorithm to remove these stereotypes from text. We analyze movie plots and posters for all movies released since 1970. The gender bias is detected by semantic modeling of plots at sentence and intra-sentence level. Different features like occupation, introductions, associated actions and descriptions are captured to show the pervasiveness of gender bias and stereotype in movies. Using the derived semantic graph, we compute centrality of each character and observe similar bias there. We also show that such bias is not applicable for movie posters where females get equal importance even though their character has little or no impact on the movie plot. The silver lining is that our system was able to identify 30 movies over last 3 years where such stereotypes were broken. The next step, is to generate debiased stories. The proposed debiasing algorithm extracts gender biased graphs from unstructured piece of text in stories from movies and de-bias these graphs to generate plausible unbiased stories.}
+}
+
+
+% Introductory paper on NLP 
+
+@article{liang2014talking,
+  author = {P. Liang},
+  journal = {XRDS: Crossroads, The ACM Magazine for Students},
+  number = {1},
+  pages = {18--21},
+  title = {Talking to computers in natural language},
+  volume = {21},
+  year = {2014},
+}
+
+
+
+
+
+
+
+
+
+
