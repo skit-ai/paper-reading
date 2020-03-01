@@ -3,8 +3,50 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-02-09T21:12:40+0530</updated>
+  <updated>2020-03-01T15:09:58+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>28 February, 2020</title>
+    <updated>2020-02-28T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: wu2019self
+:YEAR:     2019
+:AUTHOR:   Wu, Jiawei and Wang, Xin and Wang, William Yang
+</p>
+
+<p>
+The self-supervision signal here is coming from a model which tries to predict
+whether a provided tuple of turns is in order or not. Connecting this as the
+discriminator in generative-discriminative dialog systems they find better
+results.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Self-supervised dialogue learning</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: wu2019self
+:YEAR:     2019
+:AUTHOR:   Wu, Jiawei and Wang, Xin and Wang, William Yang
+</p>
+
+<p>
+The self-supervision signal here is coming from a model which tries to predict
+whether a provided tuple of turns is in order or not. Connecting this as the
+discriminator in generative-discriminative dialog systems they find better
+results.
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>7 February, 2020</title>
     <updated>2020-02-07T00:00:00+0530</updated>

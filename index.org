@@ -62,6 +62,19 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 28 February, 2020
+** Self-supervised dialogue learning
+:PROPERTIES:
+:CUSTOM_ID: wu2019self
+:YEAR:     2019
+:AUTHOR:   Wu, Jiawei and Wang, Xin and Wang, William Yang
+:END:
+
+The self-supervision signal here is coming from a model which tries to predict
+whether a provided tuple of turns is in order or not. Connecting this as the
+discriminator in generative-discriminative dialog systems they find better
+results.
+
 * 7 February, 2020
 ** Learning from Dialogue after Deployment: Feed Yourself, Chatbot!
 :PROPERTIES:
