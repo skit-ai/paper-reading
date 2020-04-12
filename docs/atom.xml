@@ -3,8 +3,74 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-03-01T15:09:58+0530</updated>
+  <updated>2020-04-12T12:37:08+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>3 April, 2020</title>
+    <updated>2020-04-03T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: malinowski2020sideways
+:YEAR:     2020
+:AUTHOR:   Malinowski, Mateusz and Swirszcz, Grzegorz and Carreira, Joao and Patraucean, Viorica
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Sideways: Depth-Parallel Training of Video Models</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: malinowski2020sideways
+:YEAR:     2020
+:AUTHOR:   Malinowski, Mateusz and Swirszcz, Grzegorz and Carreira, Joao and Patraucean, Viorica
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Speech2face: Learning the face behind a voice</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: oh2019speech2face
+:YEAR:     2019
+:AUTHOR:   Oh, Tae-Hyun and Dekel, Tali and Kim, Changil and Mosseri, Inbar and Freeman, William T and Rubinstein, Michael and Matusik, Wojciech
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Dialog Methods for Improved Alphanumeric String Capture</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: peters2011dialog
+:YEAR:     2011
+:AUTHOR:   Peters, Doug and Stubley, Peter
+</p>
+
+<p>
+Presents a way for dialog level collection of alpha numeric strings via an ASR.
+Two main ideas:
+</p>
+
+<ol class="org-ol">
+<li>Skip listing over n-best hypothesis across turns (attempts)</li>
+<li>Chunking and confirming pieces one by one</li>
+</ol>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>28 February, 2020</title>
     <updated>2020-02-28T00:00:00+0530</updated>
