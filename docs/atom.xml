@@ -3,8 +3,64 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-04-18T14:54:07+0530</updated>
+  <updated>2020-04-25T00:31:46+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>25 April, 2020</title>
+    <updated>2020-04-25T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: stoudenmire2017supervised
+:YEAR:     2017
+:AUTHOR:   Stoudenmire, Miles and Schwab, David
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Supervised Learning with Quantum-Inspired Tensor Networks</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: stoudenmire2017supervised
+:YEAR:     2017
+:AUTHOR:   Stoudenmire, Miles and Schwab, David
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: corbett2020measure
+:YEAR:     2018
+:AUTHOR:   Corbett-Davies, Sam and Goel, Sharad
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Understanding deep learning requires rethinking generalization</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: zhang2017understanding
+:YEAR:     2017
+:AUTHOR:   Zhang, Chiyuan and Bengio, Samy and Hardt, Moritz and Recht, Benjamin and Vinyals, Oriol
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>17 April, 2020</title>
     <updated>2020-04-17T00:00:00+0530</updated>

@@ -62,6 +62,28 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 25 April, 2020
+** Supervised Learning with Quantum-Inspired Tensor Networks
+:PROPERTIES:
+:CUSTOM_ID: stoudenmire2017supervised
+:YEAR:     2017
+:AUTHOR:   Stoudenmire, Miles and Schwab, David
+:END:
+
+** The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning
+:PROPERTIES:
+:CUSTOM_ID: corbett2020measure
+:YEAR:     2018
+:AUTHOR:   Corbett-Davies, Sam and Goel, Sharad
+:END:
+
+** Understanding deep learning requires rethinking generalization
+:PROPERTIES:
+:CUSTOM_ID: zhang2017understanding
+:YEAR:     2017
+:AUTHOR:   Zhang, Chiyuan and Bengio, Samy and Hardt, Moritz and Recht, Benjamin and Vinyals, Oriol
+:END:
+
 * 17 April, 2020
 ** Zoom In: An Introduction to Circuits
 :PROPERTIES:
