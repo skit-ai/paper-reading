@@ -63,6 +63,13 @@ List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
 * 25 April, 2020
+** Gmail Smart Compose: Real-Time Assisted Writing
+:PROPERTIES:
+:CUSTOM_ID: andrew2019gmail
+:YEAR:     2019
+:AUTHOR:   Andrew Dai and Benjamin Lee and Gagan Bansal and Jackie Tsay and Justin Lu and Mia Chen and Shuyuan Zhang and Tim Sohn and Yinan Wang and Yonghui Wu and Yuan Cao and Zhifeng Chen
+:END:
+
 ** Supervised Learning with Quantum-Inspired Tensor Networks
 :PROPERTIES:
 :CUSTOM_ID: stoudenmire2017supervised

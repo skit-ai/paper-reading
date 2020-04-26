@@ -3,7 +3,7 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-04-25T00:31:46+0530</updated>
+  <updated>2020-04-26T11:01:12+0530</updated>
   <author><name>Vernacular.ai</name></author>
   <entry>
     <title>25 April, 2020</title>
@@ -11,9 +11,23 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-:CUSTOM<sub>ID</sub>: stoudenmire2017supervised
-:YEAR:     2017
-:AUTHOR:   Stoudenmire, Miles and Schwab, David
+:CUSTOM<sub>ID</sub>: andrew2019gmail
+:YEAR:     2019
+:AUTHOR:   Andrew Dai and Benjamin Lee and Gagan Bansal and Jackie Tsay and Justin Lu and Mia Chen and Shuyuan Zhang and Tim Sohn and Yinan Wang and Yonghui Wu and Yuan Cao and Zhifeng Chen
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Gmail Smart Compose: Real-Time Assisted Writing</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: andrew2019gmail
+:YEAR:     2019
+:AUTHOR:   Andrew Dai and Benjamin Lee and Gagan Bansal and Jackie Tsay and Justin Lu and Mia Chen and Shuyuan Zhang and Tim Sohn and Yinan Wang and Yonghui Wu and Yuan Cao and Zhifeng Chen
 </p>
 
       </div>
