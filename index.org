@@ -62,6 +62,28 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 8 May, 2020
+** Designing and Deploying Online Field Experiments
+:PROPERTIES:
+:CUSTOM_ID: bakshy2014designing
+:YEAR:     2014
+:AUTHOR:   Bakshy, Eytan and Eckles, Dean and Bernstein, Michael S.
+:END:
+
+** Intelligent Selection of Language Model Training Data
+:PROPERTIES:
+:CUSTOM_ID: moore2010intelligent
+:YEAR:     2010
+:AUTHOR:   Moore, Robert C. and Lewis, William
+:END:
+
+** Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead
+:PROPERTIES:
+:CUSTOM_ID: rudin2019stop
+:YEAR:     2019
+:AUTHOR:   Rudin, Cynthia
+:END:
+
 * 25 April, 2020
 ** Gmail Smart Compose: Real-Time Assisted Writing
 :PROPERTIES:

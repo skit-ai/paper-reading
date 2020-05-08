@@ -3,8 +3,64 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-04-26T11:01:12+0530</updated>
+  <updated>2020-05-08T18:08:53+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>8 May, 2020</title>
+    <updated>2020-05-08T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: bakshy2014designing
+:YEAR:     2014
+:AUTHOR:   Bakshy, Eytan and Eckles, Dean and Bernstein, Michael S.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Designing and Deploying Online Field Experiments</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: bakshy2014designing
+:YEAR:     2014
+:AUTHOR:   Bakshy, Eytan and Eckles, Dean and Bernstein, Michael S.
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Intelligent Selection of Language Model Training Data</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: moore2010intelligent
+:YEAR:     2010
+:AUTHOR:   Moore, Robert C. and Lewis, William
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: rudin2019stop
+:YEAR:     2019
+:AUTHOR:   Rudin, Cynthia
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>25 April, 2020</title>
     <updated>2020-04-25T00:00:00+0530</updated>
