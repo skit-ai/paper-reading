@@ -3,8 +3,50 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-05-15T17:59:57+0530</updated>
+  <updated>2020-05-29T18:10:20+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>29 May, 2020</title>
+    <updated>2020-05-29T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: dhingra2020differentiable
+:YEAR:     2020
+:AUTHOR:   Dhingra, Bhuwan and Zaheer, Manzil and Balachandran, Vidhisha and Neubig, Graham and Salakhutdinov, Ruslan and Cohen, William W
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: dhingra2020differentiable
+:YEAR:     2020
+:AUTHOR:   Dhingra, Bhuwan and Zaheer, Manzil and Balachandran, Vidhisha and Neubig, Graham and Salakhutdinov, Ruslan and Cohen, William W
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Natural tts synthesis by conditioning wavenet on mel spectrogram predictions</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: shen2018naturaltts
+:YEAR:     2018
+:AUTHOR:   Shen, Jonathan and Pang, Ruoming and Weiss, Ron J and Schuster, Mike and Jaitly, Navdeep and Yang, Zongheng and Chen, Zhifeng and Zhang, Yu and Wang, Yuxuan and Skerrv-Ryan, Rj and others
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>15 May, 2020</title>
     <updated>2020-05-15T00:00:00+0530</updated>
