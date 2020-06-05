@@ -62,6 +62,35 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 5 June, 2020
+** Hierarchical attention networks for document classification
+:PROPERTIES:
+:CUSTOM_ID: yang2016hierarchical
+:YEAR:     2016
+:AUTHOR:   Yang, Zichao and Yang, Diyi and Dyer, Chris and He, Xiaodong and Smola, Alex and Hovy, Eduard
+:END:
+
+** Training classifiers with natural language explanations
+:PROPERTIES:
+:CUSTOM_ID: hancock2018training
+:YEAR:     2018
+:AUTHOR:   Hancock, Braden and Bringmann, Martin and Varma, Paroma and Liang, Percy and Wang, Stephanie and R, Christopher
+:END:
+
+** ERD'14: entity recognition and disambiguation challenge
+:PROPERTIES:
+:CUSTOM_ID: carmel2014entity
+:YEAR:     2014
+:AUTHOR:   Carmel, David and Chang, Ming-Wei and Gabrilovich, Evgeniy and Hsu, Bo-June and Wang, Kuansan
+:END:
+
+** Audio adversarial examples: Targeted attacks on speech-to-text
+:PROPERTIES:
+:CUSTOM_ID: carlini2018adversarial
+:YEAR:     2018
+:AUTHOR:   Carlini, Nicholas and Wagner, David
+:END:
+
 * 29 May, 2020
 ** Differentiable Reasoning over a Virtual Knowledge Base
 :PROPERTIES:

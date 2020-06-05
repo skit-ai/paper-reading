@@ -3,8 +3,78 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-05-29T18:10:20+0530</updated>
+  <updated>2020-06-05T18:32:10+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>5 June, 2020</title>
+    <updated>2020-06-05T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: yang2016hierarchical
+:YEAR:     2016
+:AUTHOR:   Yang, Zichao and Yang, Diyi and Dyer, Chris and He, Xiaodong and Smola, Alex and Hovy, Eduard
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Hierarchical attention networks for document classification</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: yang2016hierarchical
+:YEAR:     2016
+:AUTHOR:   Yang, Zichao and Yang, Diyi and Dyer, Chris and He, Xiaodong and Smola, Alex and Hovy, Eduard
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Training classifiers with natural language explanations</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: hancock2018training
+:YEAR:     2018
+:AUTHOR:   Hancock, Braden and Bringmann, Martin and Varma, Paroma and Liang, Percy and Wang, Stephanie and R, Christopher
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>ERD&#39;14: entity recognition and disambiguation challenge</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: carmel2014entity
+:YEAR:     2014
+:AUTHOR:   Carmel, David and Chang, Ming-Wei and Gabrilovich, Evgeniy and Hsu, Bo-June and Wang, Kuansan
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Audio adversarial examples: Targeted attacks on speech-to-text</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: carlini2018adversarial
+:YEAR:     2018
+:AUTHOR:   Carlini, Nicholas and Wagner, David
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>29 May, 2020</title>
     <updated>2020-05-29T00:00:00+0530</updated>
