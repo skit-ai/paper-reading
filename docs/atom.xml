@@ -3,8 +3,92 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-06-05T18:32:10+0530</updated>
+  <updated>2020-06-12T18:31:12+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>12 June, 2020</title>
+    <updated>2020-06-12T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: reimers2019sentence
+:YEAR:     2019
+:AUTHOR:   Reimers, Nils and Gurevych, Iryna
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Sentence-bert: Sentence embeddings using siamese bert-networks</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: reimers2019sentence
+:YEAR:     2019
+:AUTHOR:   Reimers, Nils and Gurevych, Iryna
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>PyTorch: An imperative style, high-performance deep learning library</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: paszke2019pytorch
+:YEAR:     2019
+:AUTHOR:   Paszke, Adam and Gross, Sam and Massa, Francisco and Lerer, Adam and Bradbury, James and Chanan, Gregory and Killeen, Trevor and Lin, Zeming and Gimelshein, Natalia and Antiga, Luca and others
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>What&#39;s Hidden in a Randomly Weighted Neural Network?</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: ramanujan2020s
+:YEAR:     2020
+:AUTHOR:   Ramanujan, Vivek and Wortsman, Mitchell and Kembhavi, Aniruddha and Farhadi, Ali and Rastegari, Mohammad
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Weakly Supervised Attention Networks for Entity Recognition</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: patra2019weakly
+:YEAR:     2019
+:AUTHOR:   Patra, Barun and Moniz, Joel Ruben Antony
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Improving BERT with Self-Supervised Attention</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: kou2020improving
+:YEAR:     2020
+:AUTHOR:   Kou, Xiaoyu and Yang, Yaming and Wang, Yujing and Zhang, Ce and Chen, Yiren and Tong, Yunhai and Zhang, Yan and Bai, Jing
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>5 June, 2020</title>
     <updated>2020-06-05T00:00:00+0530</updated>
