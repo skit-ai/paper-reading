@@ -62,6 +62,21 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 24 July, 2020
+** Adversarial examples that fool both computer vision and time-limited humans
+:PROPERTIES:
+:CUSTOM_ID: elsayed2018adversarial
+:YEAR:     2018
+:AUTHOR:   Elsayed, Gamaleldin and Shankar, Shreya and Cheung, Brian and Papernot, Nicolas and Kurakin, Alexey and Goodfellow, Ian and Sohl-Dickstein, Jascha
+:END:
+
+** Language models are few-shot learners
+:PROPERTIES:
+:CUSTOM_ID: brown2020language
+:YEAR:     2020
+:AUTHOR:   Brown, Tom B and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others
+:END:
+
 * 10 July, 2020
 ** DIET: Lightweight Language Understanding for Dialogue Systems
 :PROPERTIES:

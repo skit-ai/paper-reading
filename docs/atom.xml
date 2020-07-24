@@ -3,8 +3,50 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-07-15T17:05:24+0530</updated>
+  <updated>2020-07-24T18:06:46+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>24 July, 2020</title>
+    <updated>2020-07-24T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: elsayed2018adversarial
+:YEAR:     2018
+:AUTHOR:   Elsayed, Gamaleldin and Shankar, Shreya and Cheung, Brian and Papernot, Nicolas and Kurakin, Alexey and Goodfellow, Ian and Sohl-Dickstein, Jascha
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Adversarial examples that fool both computer vision and time-limited humans</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: elsayed2018adversarial
+:YEAR:     2018
+:AUTHOR:   Elsayed, Gamaleldin and Shankar, Shreya and Cheung, Brian and Papernot, Nicolas and Kurakin, Alexey and Goodfellow, Ian and Sohl-Dickstein, Jascha
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Language models are few-shot learners</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: brown2020language
+:YEAR:     2020
+:AUTHOR:   Brown, Tom B and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>10 July, 2020</title>
     <updated>2020-07-10T00:00:00+0530</updated>
@@ -70,6 +112,20 @@
 :CUSTOM<sub>ID</sub>: wu2018starspace
 :YEAR:     2018
 :AUTHOR:   Wu, Ledell Yu and Fisch, Adam and Chopra, Sumit and Adams, Keith and Bordes, Antoine and Weston, Jason
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Learning Asr-Robust Contextualized Embeddings for Spoken Language Understanding</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: huang2020learning
+:YEAR:     2020
+:AUTHOR:   Huang, Chao-Wei and Chen, Yun-Nung
 </p>
 
       </div>
