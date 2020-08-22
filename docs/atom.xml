@@ -3,8 +3,78 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-07-24T18:06:46+0530</updated>
+  <updated>2020-08-22T22:58:43+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>21 August, 2020</title>
+    <updated>2020-08-21T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: hou2020bridging
+:YEAR:     2020
+:AUTHOR:   Hou, Yufang
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Bridging Anaphora Resolution as Question Answering</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: hou2020bridging
+:YEAR:     2020
+:AUTHOR:   Hou, Yufang
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>A framework for understanding unintended consequences of machine learning</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: suresh2019framework
+:YEAR:     2019
+:AUTHOR:   Suresh, Harini and Guttag, John V
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>14 August, 2020</title>
+    <updated>2020-08-14T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: kitaev2020reformer
+:YEAR:     2020
+:AUTHOR:   Nikita Kitaev and Łukasz Kaiser and Anselm Levskaya
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Reformer: The Efficient Transformer</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: kitaev2020reformer
+:YEAR:     2020
+:AUTHOR:   Nikita Kitaev and Łukasz Kaiser and Anselm Levskaya
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>24 July, 2020</title>
     <updated>2020-07-24T00:00:00+0530</updated>
