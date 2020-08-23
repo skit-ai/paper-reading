@@ -130,9 +130,6 @@ missing links/notes, check out the (private) wiki.
 :AUTHOR:   Huang, Chao-Wei and Chen, Yun-Nung
 :END:
 
-* 26 June, 2020
-**
-
 * 12 June, 2020
 ** Sentence-bert: Sentence embeddings using siamese bert-networks
 :PROPERTIES:
