@@ -3,8 +3,50 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-08-23T23:11:16+0530</updated>
+  <updated>2020-08-30T20:23:26+0530</updated>
   <author><name>Vernacular.ai</name></author>
+  <entry>
+    <title>28 August, 2020</title>
+    <updated>2020-08-28T00:00:00+0530</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: tang2010overlapping
+:YEAR:     2010
+:AUTHOR:   Tang, Diane and Agarwal, Ashish and O'Brien, Deirdre and Meyer, Mike
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Overlapping experiment infrastructure: More, better, faster experimentation</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: tang2010overlapping
+:YEAR:     2010
+:AUTHOR:   Tang, Diane and Agarwal, Ashish and O'Brien, Deirdre and Meyer, Mike
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Optimal testing in the experiment-rich regime</title>
+    <updated>-001-11-30T00:00:00+0553</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: schmit2019optimal
+:YEAR:     2019
+:AUTHOR:   Schmit, Sven and Shah, Virag and Johari, Ramesh
+</p>
+
+      </div>
+    </content>
+  </entry>
   <entry>
     <title>21 August, 2020</title>
     <updated>2020-08-21T00:00:00+0530</updated>

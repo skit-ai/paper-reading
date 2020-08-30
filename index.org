@@ -62,6 +62,21 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
+* 28 August, 2020
+** Overlapping experiment infrastructure: More, better, faster experimentation
+:PROPERTIES:
+:CUSTOM_ID: tang2010overlapping
+:YEAR:     2010
+:AUTHOR:   Tang, Diane and Agarwal, Ashish and O'Brien, Deirdre and Meyer, Mike
+:END:
+
+** Optimal testing in the experiment-rich regime
+:PROPERTIES:
+:CUSTOM_ID: schmit2019optimal
+:YEAR:     2019
+:AUTHOR:   Schmit, Sven and Shah, Virag and Johari, Ramesh
+:END:
+
 * 21 August, 2020
 ** Bridging Anaphora Resolution as Question Answering
 :PROPERTIES:
