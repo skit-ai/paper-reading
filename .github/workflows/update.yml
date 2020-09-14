@@ -15,4 +15,4 @@ jobs:
       - name: Installing cask dependencies
         run: cask install
       - name: Updating github pages site
-        run: make
+        run: cask emacs -Q --script ./build.el
