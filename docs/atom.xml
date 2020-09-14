@@ -3,11 +3,11 @@
   <title>paper-reading | vernacular.ai</title>
   <link href="https://vernacular-ai.github.io/paper-reading"/>
   <link href="https://vernacular-ai.github.io/paper-reading/atom.xml" rel="self"/>
-  <updated>2020-08-30T20:23:26+0530</updated>
+  <updated>2020-09-14T20:27:40+0000</updated>
   <author><name>Vernacular.ai</name></author>
   <entry>
-    <title>28 August, 2020</title>
-    <updated>2020-08-28T00:00:00+0530</updated>
+    <title>11 September, 2020</title>
+    <updated>2020-09-11T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -21,7 +21,35 @@
   </entry>
   <entry>
     <title>Overlapping experiment infrastructure: More, better, faster experimentation</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: tang2010overlapping
+:YEAR:     2010
+:AUTHOR:   Tang, Diane and Agarwal, Ashish and O'Brien, Deirdre and Meyer, Mike
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>28 August, 2020</title>
+    <updated>2020-08-28T00:00:00+0000</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+:CUSTOM<sub>ID</sub>: tang2010overlapping
+:YEAR:     2010
+:AUTHOR:   Tang, Diane and Agarwal, Ashish and O'Brien, Deirdre and Meyer, Mike
+</p>
+
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <title>Overlapping experiment infrastructure: More, better, faster experimentation</title>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -35,7 +63,7 @@
   </entry>
   <entry>
     <title>Optimal testing in the experiment-rich regime</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -49,7 +77,7 @@
   </entry>
   <entry>
     <title>21 August, 2020</title>
-    <updated>2020-08-21T00:00:00+0530</updated>
+    <updated>2020-08-21T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -63,7 +91,7 @@
   </entry>
   <entry>
     <title>Bridging Anaphora Resolution as Question Answering</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -77,7 +105,7 @@
   </entry>
   <entry>
     <title>A framework for understanding unintended consequences of machine learning</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -91,7 +119,7 @@
   </entry>
   <entry>
     <title>14 August, 2020</title>
-    <updated>2020-08-14T00:00:00+0530</updated>
+    <updated>2020-08-14T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -105,7 +133,7 @@
   </entry>
   <entry>
     <title>Reformer: The Efficient Transformer</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -119,7 +147,7 @@
   </entry>
   <entry>
     <title>24 July, 2020</title>
-    <updated>2020-07-24T00:00:00+0530</updated>
+    <updated>2020-07-24T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -133,7 +161,7 @@
   </entry>
   <entry>
     <title>Adversarial examples that fool both computer vision and time-limited humans</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -147,7 +175,7 @@
   </entry>
   <entry>
     <title>Language models are few-shot learners</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -161,7 +189,7 @@
   </entry>
   <entry>
     <title>10 July, 2020</title>
-    <updated>2020-07-10T00:00:00+0530</updated>
+    <updated>2020-07-10T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -175,7 +203,7 @@
   </entry>
   <entry>
     <title>DIET: Lightweight Language Understanding for Dialogue Systems</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -189,7 +217,7 @@
   </entry>
   <entry>
     <title>DialogueRNN: An attentive RNN for emotion detection in conversations</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -203,7 +231,7 @@
   </entry>
   <entry>
     <title>3 July, 2020</title>
-    <updated>2020-07-03T00:00:00+0530</updated>
+    <updated>2020-07-03T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -217,7 +245,7 @@
   </entry>
   <entry>
     <title>StarSpace: Embed All The Things!</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -231,7 +259,7 @@
   </entry>
   <entry>
     <title>Learning Asr-Robust Contextualized Embeddings for Spoken Language Understanding</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -245,7 +273,7 @@
   </entry>
   <entry>
     <title>12 June, 2020</title>
-    <updated>2020-06-12T00:00:00+0530</updated>
+    <updated>2020-06-12T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -259,7 +287,7 @@
   </entry>
   <entry>
     <title>Sentence-bert: Sentence embeddings using siamese bert-networks</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -273,7 +301,7 @@
   </entry>
   <entry>
     <title>PyTorch: An imperative style, high-performance deep learning library</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -287,7 +315,7 @@
   </entry>
   <entry>
     <title>What&#39;s Hidden in a Randomly Weighted Neural Network?</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -301,7 +329,7 @@
   </entry>
   <entry>
     <title>Weakly Supervised Attention Networks for Entity Recognition</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -315,7 +343,7 @@
   </entry>
   <entry>
     <title>Improving BERT with Self-Supervised Attention</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -329,7 +357,7 @@
   </entry>
   <entry>
     <title>5 June, 2020</title>
-    <updated>2020-06-05T00:00:00+0530</updated>
+    <updated>2020-06-05T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -343,7 +371,7 @@
   </entry>
   <entry>
     <title>Hierarchical attention networks for document classification</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -357,7 +385,7 @@
   </entry>
   <entry>
     <title>Training classifiers with natural language explanations</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -371,7 +399,7 @@
   </entry>
   <entry>
     <title>ERD&#39;14: entity recognition and disambiguation challenge</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -385,7 +413,7 @@
   </entry>
   <entry>
     <title>Audio adversarial examples: Targeted attacks on speech-to-text</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -399,7 +427,7 @@
   </entry>
   <entry>
     <title>29 May, 2020</title>
-    <updated>2020-05-29T00:00:00+0530</updated>
+    <updated>2020-05-29T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -413,7 +441,7 @@
   </entry>
   <entry>
     <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -427,7 +455,7 @@
   </entry>
   <entry>
     <title>Natural tts synthesis by conditioning wavenet on mel spectrogram predictions</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -441,7 +469,7 @@
   </entry>
   <entry>
     <title>15 May, 2020</title>
-    <updated>2020-05-15T00:00:00+0530</updated>
+    <updated>2020-05-15T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -455,7 +483,7 @@
   </entry>
   <entry>
     <title>NBDT: Neural-Backed Decision Trees</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -469,7 +497,7 @@
   </entry>
   <entry>
     <title>Faster Neural Network Training with Data Echoing</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -483,7 +511,7 @@
   </entry>
   <entry>
     <title>Universal Language Model Fine-tuning for Text Classification</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -497,7 +525,7 @@
   </entry>
   <entry>
     <title>8 May, 2020</title>
-    <updated>2020-05-08T00:00:00+0530</updated>
+    <updated>2020-05-08T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -511,7 +539,7 @@
   </entry>
   <entry>
     <title>Designing and Deploying Online Field Experiments</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -525,7 +553,7 @@
   </entry>
   <entry>
     <title>Intelligent Selection of Language Model Training Data</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -539,7 +567,7 @@
   </entry>
   <entry>
     <title>Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -553,7 +581,7 @@
   </entry>
   <entry>
     <title>25 April, 2020</title>
-    <updated>2020-04-25T00:00:00+0530</updated>
+    <updated>2020-04-25T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -567,7 +595,7 @@
   </entry>
   <entry>
     <title>Gmail Smart Compose: Real-Time Assisted Writing</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -581,7 +609,7 @@
   </entry>
   <entry>
     <title>Supervised Learning with Quantum-Inspired Tensor Networks</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -595,7 +623,7 @@
   </entry>
   <entry>
     <title>The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -609,7 +637,7 @@
   </entry>
   <entry>
     <title>Understanding deep learning requires rethinking generalization</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -623,7 +651,7 @@
   </entry>
   <entry>
     <title>17 April, 2020</title>
-    <updated>2020-04-17T00:00:00+0530</updated>
+    <updated>2020-04-17T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -637,7 +665,7 @@
   </entry>
   <entry>
     <title>Zoom In: An Introduction to Circuits</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -651,7 +679,7 @@
   </entry>
   <entry>
     <title>3 April, 2020</title>
-    <updated>2020-04-03T00:00:00+0530</updated>
+    <updated>2020-04-03T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -665,7 +693,7 @@
   </entry>
   <entry>
     <title>Sideways: Depth-Parallel Training of Video Models</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -679,7 +707,7 @@
   </entry>
   <entry>
     <title>Speech2face: Learning the face behind a voice</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -693,7 +721,7 @@
   </entry>
   <entry>
     <title>Dialog Methods for Improved Alphanumeric String Capture</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -717,7 +745,7 @@ Two main ideas:
   </entry>
   <entry>
     <title>28 February, 2020</title>
-    <updated>2020-02-28T00:00:00+0530</updated>
+    <updated>2020-02-28T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -738,7 +766,7 @@ results.
   </entry>
   <entry>
     <title>Self-supervised dialogue learning</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -759,7 +787,7 @@ results.
   </entry>
   <entry>
     <title>7 February, 2020</title>
-    <updated>2020-02-07T00:00:00+0530</updated>
+    <updated>2020-02-07T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -792,7 +820,7 @@ The models have shared weights, mostly among task 1 and 3.
   </entry>
   <entry>
     <title>Learning from Dialogue after Deployment: Feed Yourself, Chatbot!</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -825,7 +853,7 @@ The models have shared weights, mostly among task 1 and 3.
   </entry>
   <entry>
     <title>31 January, 2020</title>
-    <updated>2020-01-31T00:00:00+0530</updated>
+    <updated>2020-01-31T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -851,7 +879,7 @@ example, and even adapt it to variable length sequences.
   </entry>
   <entry>
     <title>Modeling Sequences with Quantum States: A Look Under the Hood</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -877,7 +905,7 @@ example, and even adapt it to variable length sequences.
   </entry>
   <entry>
     <title>Deep voice 2: Multi-speaker neural text-to-speech</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -910,7 +938,7 @@ embeddings</li>
   </entry>
   <entry>
     <title>A credit assignment compiler for joint prediction</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -938,7 +966,7 @@ Main reduction that happens here is to a cost-sensitive classification problem.
   </entry>
   <entry>
     <title>17 January, 2020</title>
-    <updated>2020-01-17T00:00:00+0530</updated>
+    <updated>2020-01-17T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -967,7 +995,7 @@ syntax to reasoning via semantics.
   </entry>
   <entry>
     <title>Learning language from a large (unannotated) corpus</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -996,7 +1024,7 @@ syntax to reasoning via semantics.
   </entry>
   <entry>
     <title>10 January, 2020</title>
-    <updated>2020-01-10T00:00:00+0530</updated>
+    <updated>2020-01-10T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1023,7 +1051,7 @@ covering many (not all) linguistics phenomena.
   </entry>
   <entry>
     <title>Parsing English with a link grammar</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1050,7 +1078,7 @@ covering many (not all) linguistics phenomena.
   </entry>
   <entry>
     <title>20 December, 2019</title>
-    <updated>2019-12-20T00:00:00+0530</updated>
+    <updated>2019-12-20T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1082,7 +1110,7 @@ of the two, Contrast loss is more rigorous.
   </entry>
   <entry>
     <title>Generalized end-to-end loss for speaker verification</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1114,7 +1142,7 @@ of the two, Contrast loss is more rigorous.
   </entry>
   <entry>
     <title>13 December, 2019</title>
-    <updated>2019-12-13T00:00:00+0530</updated>
+    <updated>2019-12-13T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1139,7 +1167,7 @@ reduce the size of the vector and to tackle the problem of vanishing gradient.
   </entry>
   <entry>
     <title>Towards end-to-end spoken language understanding</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1164,7 +1192,7 @@ reduce the size of the vector and to tackle the problem of vanishing gradient.
   </entry>
   <entry>
     <title>Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1192,7 +1220,7 @@ generally stable, the results are neat.
   </entry>
   <entry>
     <title>29 November, 2019</title>
-    <updated>2019-11-29T00:00:00+0530</updated>
+    <updated>2019-11-29T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1229,7 +1257,7 @@ development abstractions in production.
   </entry>
   <entry>
     <title>Overton: A Data System for Monitoring and Improving Machine-Learned Products</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1266,7 +1294,7 @@ development abstractions in production.
   </entry>
   <entry>
     <title>Slice-based learning: A programming model for residual learning in critical data slices</title>
-    <updated>-001-11-30T00:00:00+0553</updated>
+    <updated>-001-11-30T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <p>
@@ -1297,7 +1325,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>21 September, 2019</title>
-    <updated>2019-09-21T00:00:00+0530</updated>
+    <updated>2019-09-21T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1313,7 +1341,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>3 August, 2019</title>
-    <updated>2019-08-03T00:00:00+0530</updated>
+    <updated>2019-08-03T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1333,7 +1361,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>27 July, 2019</title>
-    <updated>2019-07-27T00:00:00+0530</updated>
+    <updated>2019-07-27T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1345,7 +1373,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>20 July, 2019</title>
-    <updated>2019-07-20T00:00:00+0530</updated>
+    <updated>2019-07-20T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1357,7 +1385,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>13 July, 2019</title>
-    <updated>2019-07-13T00:00:00+0530</updated>
+    <updated>2019-07-13T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1369,7 +1397,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>6 July, 2019</title>
-    <updated>2019-07-06T00:00:00+0530</updated>
+    <updated>2019-07-06T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1387,7 +1415,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>1 July, 2019</title>
-    <updated>2019-07-01T00:00:00+0530</updated>
+    <updated>2019-07-01T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1407,7 +1435,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>25 June, 2019</title>
-    <updated>2019-06-25T00:00:00+0530</updated>
+    <updated>2019-06-25T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1427,7 +1455,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>15 June, 2019</title>
-    <updated>2019-06-15T00:00:00+0530</updated>
+    <updated>2019-06-15T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1445,7 +1473,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>8 June, 2019</title>
-    <updated>2019-06-08T00:00:00+0530</updated>
+    <updated>2019-06-08T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1463,7 +1491,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>1 June, 2019</title>
-    <updated>2019-06-01T00:00:00+0530</updated>
+    <updated>2019-06-01T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1475,7 +1503,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>18 May, 2019</title>
-    <updated>2019-05-18T00:00:00+0530</updated>
+    <updated>2019-05-18T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
@@ -1491,7 +1519,7 @@ of slicing functions.
   </entry>
   <entry>
     <title>13 May, 2019</title>
-    <updated>2019-05-13T00:00:00+0530</updated>
+    <updated>2019-05-13T00:00:00+0000</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <ul class="org-ul">
