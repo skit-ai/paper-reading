@@ -16,3 +16,10 @@ jobs:
         run: cask install
       - name: Updating github pages site
         run: cask emacs -Q --script ./build.el
+      - name: Push changes to remote
+        run: |
+          git config --global user.name "janaab11"
+          git config --global user.email "kmanas@vernacular.ai"
+          git add .
+          git commit -m "updated build"
+          git push
