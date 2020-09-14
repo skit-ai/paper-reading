@@ -5,12 +5,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
       - uses: actions/setup-python@v1.1.1
       - uses: purcell/setup-emacs@master
         with:
           version: '26.3'
       - uses: conao3/setup-cask@master
+      - uses: actions/checkout@master
 
-      - name: Update website
+      - name: Installing cask dependencies
+        run: cask install
+      - name: Updating github pages site
         run: make
