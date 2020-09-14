@@ -5,7 +5,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@master
       - uses: actions/setup-python@v1.1.1
       - uses: purcell/setup-emacs@master
         with:
