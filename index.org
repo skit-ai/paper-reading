@@ -62,14 +62,6 @@
 List of papers we cover during our weekly paper reading session. For past and
 missing links/notes, check out the (private) wiki.
 
-* 11 September, 2020
-** Overlapping experiment infrastructure: More, better, faster experimentation
-:PROPERTIES:
-:CUSTOM_ID: tang2010overlapping
-:YEAR:     2010
-:AUTHOR:   Tang, Diane and Agarwal, Ashish and O'Brien, Deirdre and Meyer, Mike
-:END:
-
 * 28 August, 2020
 ** Overlapping experiment infrastructure: More, better, faster experimentation
 :PROPERTIES:
