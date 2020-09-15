@@ -1,25 +1,42 @@
 name: Update website workflow
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-python@v1.1.1
+        with:
+          python-version: "3.x"
+          architecture: "x64"
       - uses: purcell/setup-emacs@master
         with:
           version: '26.3'
       - uses: conao3/setup-cask@master
       - uses: actions/checkout@master
 
-      - name: Installing cask dependencies
+      - name: Installing dependencies
         run: cask install
-      - name: Updating github pages site
+
+      - name: Generating build files
         run: cask emacs -Q --script ./build.el
-      - name: Push changes to remote
+
+      - name: Push build to remote
         run: |
-          git config --global user.name "janaab11"
+          git config --global user.name "github-runner"
           git config --global user.email "kmanas@vernacular.ai"
-          git add .
-          git commit -m "updated build"
+          git add docs
+          git commit -m "updates build"
           git push
+
+      - name: Push build to S3
+        uses: jakejarvis/s3-sync-action@master
+            with:
+              args: --acl public-read
+            env:
+              SOURCE_DIR: "docs"
+              DEST_DIR: "paper-reading"
+              AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+              AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+              AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+              AWS_REGION: "us-west-2"
