@@ -25,7 +25,7 @@ jobs:
       - name: Push build to remote
         run: |
           git config --global user.name "github-runner"
-          git config --global user.email "kmanas@vernacular.ai"
+          git config --global user.email "ml@vernacular.ai"
           git add docs
           git commit -m "updates build"
           git push
