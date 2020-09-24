@@ -1,4 +1,4 @@
-#+TITLE: paper-reading
+#+TITLE:paper-reading [[https://github.com/Vernacular-ai/paper-reading/actions][file:https://github.com/Vernacular-ai/paper-reading/workflows/Update%20website%20workflow/badge.svg]]
 
 #+begin_export html
 <a href="https://github.com/Vernacular-ai/paper-reading">
