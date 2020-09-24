@@ -1,5 +1,11 @@
 #+TITLE: paper-reading
-![Update website workflow](https://github.com/Vernacular-ai/paper-reading/workflows/Update%20website%20workflow/badge.svg)
+
+#+begin_export html
+<a href="https://github.com/Vernacular-ai/paper-reading">
+  <img class="badge" alt="Update website workflow" src="https://github.com/Vernacular-ai/paper-reading/workflows/Update%20website%20workflow/badge.svg">
+</a>
+#+end_export
+
 
 List of papers we cover during our weekly paper reading session. Accessible
 [[https://backyard.vernacular.ai/paper-reading/][here]]. For a pool of papers, go [[./library/][here]].
