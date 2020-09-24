@@ -1,9 +1,9 @@
-name: Update website workflow
+name: Website Updates
 on: [push, pull_request]
 
 jobs:
   build:
-    name: Updates website
+    name: Website updates
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-python@v1.1.1
